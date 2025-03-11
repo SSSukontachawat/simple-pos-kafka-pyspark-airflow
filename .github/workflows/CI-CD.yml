@@ -30,14 +30,37 @@ jobs:
       - name: Build and Run Docker Containers
         run: |
           docker-compose up -d --build
-          sleep 40 # Wait for services to start
+          sleep 40  # Wait for services to start
 
+      # Wait for Kafka to be ready
+      - name: Wait for Kafka to be ready
+        run: |
+          until curl -s http://localhost:29092; do
+            echo "Waiting for Kafka..."
+            sleep 5
+          done
+
+      # Wait for Airflow to be ready
+      - name: Wait for Airflow to be ready
+        run: |
+          until curl -s http://localhost:8080; do
+            echo "Waiting for Airflow UI..."
+            sleep 5
+          done
+
+      # Check Running Containers
       - name: Check Running Containers
         run: docker ps
 
+      # Run Basic Health Check
       - name: Run Basic Health Check
         run: |
           curl -f -v http://localhost:8501 || exit 1  # Streamlit check
           curl -f -v http://localhost:8080 || exit 1  # Airflow check
+
+      # Show Airflow Logs for debugging
+      - name: Show Airflow Logs
+        run: docker-compose logs airflow
+
       - name: Stop Containers
         run: docker-compose down
