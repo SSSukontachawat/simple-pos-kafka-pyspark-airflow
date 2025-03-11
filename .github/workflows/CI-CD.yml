@@ -37,7 +37,7 @@ jobs:
 
       - name: Run Basic Health Check
         run: |
-          curl -f http://localhost:8080 || exit 1  # Airflow UI check
+          curl -f -v http://localhost:8501 || exit 1  # Streamlit check
 
       - name: Stop Containers
         run: docker-compose down
