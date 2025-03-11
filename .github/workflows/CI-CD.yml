@@ -30,7 +30,7 @@ jobs:
       - name: Build and Run Docker Containers
         run: |
           docker-compose up -d --build
-          sleep 20 # Wait for services to start
+          sleep 40 # Wait for services to start
 
       - name: Check Running Containers
         run: docker ps
