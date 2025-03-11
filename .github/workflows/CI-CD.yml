@@ -32,14 +32,6 @@ jobs:
           docker-compose up -d --build
           sleep 40  # Wait for services to start
 
-      # Wait for Kafka to be ready
-      - name: Wait for Kafka to be ready
-        run: |
-          until curl -s http://localhost:29092; do
-            echo "Waiting for Kafka..."
-            sleep 5
-          done
-
       # Wait for Airflow to be ready
       - name: Wait for Airflow to be ready
         run: |
