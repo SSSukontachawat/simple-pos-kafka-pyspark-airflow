@@ -1,0 +1,10 @@
+# Ignore system files
+__pycache__/
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore Docker volumes
+volumes/
+data/
