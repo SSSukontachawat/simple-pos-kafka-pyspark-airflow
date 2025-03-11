@@ -19,6 +19,14 @@ jobs:
       - name: Set Up Docker Buildx
         uses: docker/setup-buildx-action@v2
 
+      # Install Docker Compose
+      - name: Install Docker Compose
+        run: |
+          sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+          sudo chmod +x /usr/local/bin/docker-compose
+          docker-compose --version  # Verify installation
+
+      # Build and Run Docker Containers
       - name: Build and Run Docker Containers
         run: |
           docker-compose up -d --build
@@ -26,7 +34,7 @@ jobs:
 
       - name: Check Running Containers
         run: docker ps
-      
+
       - name: Run Basic Health Check
         run: |
           curl -f http://localhost:8501 || exit 1  # Streamlit check
