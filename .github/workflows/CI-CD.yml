@@ -48,6 +48,7 @@ jobs:
       - name: Run Basic Health Check
         run: |
           curl -f -v http://localhost:8501 || exit 1  # Streamlit check
+          curl -f -v http://localhost:8081 || exit 1  # Spark-master check
           curl -f -v http://localhost:8080 || exit 1  # Airflow check
       # Stop containers
       - name: Stop Containers
