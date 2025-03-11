@@ -1,0 +1,25 @@
+[2025-02-16T16:01:11.260+0700] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-16T16:01:11.270+0700] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Sales_Transactions_DAG_for_pyspark.run_pyspark_etl scheduled__2025-02-14T22:00:00+00:00 [queued]>
+[2025-02-16T16:01:11.275+0700] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Sales_Transactions_DAG_for_pyspark.run_pyspark_etl scheduled__2025-02-14T22:00:00+00:00 [queued]>
+[2025-02-16T16:01:11.275+0700] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2025-02-16T16:01:11.288+0700] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): run_pyspark_etl> on 2025-02-14 22:00:00+00:00
+[2025-02-16T16:01:11.291+0700] {standard_task_runner.py:72} INFO - Started process 26488 to run task
+[2025-02-16T16:01:11.296+0700] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'Sales_Transactions_DAG_for_pyspark', 'run_pyspark_etl', 'scheduled__2025-02-14T22:00:00+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/etl_spark_dag.py', '--cfg-path', '/tmp/tmpy3na1_tw']
+[2025-02-16T16:01:11.297+0700] {standard_task_runner.py:105} INFO - Job 4: Subtask run_pyspark_etl
+[2025-02-16T16:01:11.335+0700] {task_command.py:467} INFO - Running <TaskInstance: Sales_Transactions_DAG_for_pyspark.run_pyspark_etl scheduled__2025-02-14T22:00:00+00:00 [running]> on host DESKTOP-U0OUTGG.
+[2025-02-16T16:01:11.393+0700] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='Sales_Transactions_DAG_for_pyspark' AIRFLOW_CTX_TASK_ID='run_pyspark_etl' AIRFLOW_CTX_EXECUTION_DATE='2025-02-14T22:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-02-14T22:00:00+00:00'
+[2025-02-16T16:01:11.393+0700] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-02-16T16:01:11.394+0700] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-02-16T16:01:11.394+0700] {logging_mixin.py:190} INFO - Current task name:run_pyspark_etl state:running start_date:2025-02-16 09:01:11.270775+00:00
+[2025-02-16T16:01:11.394+0700] {logging_mixin.py:190} INFO - Dag name:Sales_Transactions_DAG_for_pyspark and current dag run status:running
+[2025-02-16T16:01:11.394+0700] {taskinstance.py:732} INFO - ::endgroup::
+[2025-02-16T16:01:16.098+0700] {python.py:240} INFO - Done. Returned value was: None
+[2025-02-16T16:01:16.105+0700] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-02-16T16:01:16.105+0700] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=Sales_Transactions_DAG_for_pyspark, task_id=run_pyspark_etl, run_id=scheduled__2025-02-14T22:00:00+00:00, execution_date=20250214T220000, start_date=20250216T090111, end_date=20250216T090116
+[2025-02-16T16:01:16.125+0700] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-02-16T16:01:16.126+0700] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-02-16T16:01:16.126+0700] {logging_mixin.py:190} INFO - Dag name:Sales_Transactions_DAG_for_pyspark queued_at:2025-02-16 09:01:10.298887+00:00
+[2025-02-16T16:01:16.126+0700] {logging_mixin.py:190} INFO - Task hostname:DESKTOP-U0OUTGG. operator:PythonOperator
+[2025-02-16T16:01:16.150+0700] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-02-16T16:01:16.160+0700] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-02-16T16:01:16.161+0700] {local_task_job_runner.py:245} INFO - ::endgroup::

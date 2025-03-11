@@ -1,0 +1,17 @@
+[2025-03-06T16:51:26.082+0700] {executor_loader.py:258} INFO - Loaded executor: SequentialExecutor
+[2025-03-06T16:51:26.120+0700] {scheduler_job_runner.py:950} INFO - Starting the scheduler
+[2025-03-06T16:51:26.121+0700] {scheduler_job_runner.py:957} INFO - Processing each file at most -1 times
+[2025-03-06T16:51:26.242+0700] {manager.py:174} INFO - Launched DagFileProcessorManager with pid: 99305
+[2025-03-06T16:51:26.244+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T16:51:26.247+0700] {settings.py:63} INFO - Configured default timezone UTC
+[2025-03-06T16:51:26.272+0700] {manager.py:406} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[2025-03-06T16:56:14.621+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:01:01.355+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:05:49.383+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:10:37.363+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:10:37.366+0700] {scheduler_job_runner.py:1972} INFO - Marked 1 SchedulerJob instances as failed
+[2025-03-06T17:15:25.215+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:20:11.654+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:24:59.192+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:29:46.600+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2025-03-06T17:34:33.910+0700] {scheduler_job_runner.py:1949} INFO - Adopting or resetting orphaned tasks for active dag runs

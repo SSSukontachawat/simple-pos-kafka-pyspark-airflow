@@ -1,0 +1,311 @@
+[2025-03-08T00:56:24.022+0700] {processor.py:186} INFO - Started process (PID=36085) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:56:24.023+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T00:56:24.025+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:24.025+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:56:24.028+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:24.028+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T00:56:24.030+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:24.029+0700] {POS_spark_dag.py:13} ERROR - Error importing from secondDataPipeline: No module named 'POS_ETL'
+[2025-03-08T00:56:24.032+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:24.030+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 11, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T00:56:24.032+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:56:24.102+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.087 seconds
+[2025-03-08T00:57:23.279+0700] {processor.py:186} INFO - Started process (PID=36636) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:57:23.280+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T00:57:23.282+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:23.282+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:57:23.285+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:23.284+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T00:57:30.190+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:57:30.211+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:30.211+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T00:57:30.233+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:30.232+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T00:57:30.236+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:30.236+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T00:57:30.257+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 6.983 seconds
+[2025-03-08T00:58:28.150+0700] {processor.py:186} INFO - Started process (PID=37195) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:58:28.151+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T00:58:28.153+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:28.152+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:58:28.155+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:28.155+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T00:58:32.271+0700] {processor.py:925} INFO - DAG(s) 'hourly_etl', 'daily_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:58:32.289+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:32.288+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T00:58:32.311+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:32.311+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T00:58:32.314+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:32.314+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T00:58:32.335+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.191 seconds
+[2025-03-08T00:59:29.933+0700] {processor.py:186} INFO - Started process (PID=37624) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:59:29.934+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T00:59:29.935+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:29.935+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:59:29.937+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:29.937+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T00:59:33.896+0700] {processor.py:925} INFO - DAG(s) 'hourly_etl', 'daily_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T00:59:33.912+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:33.912+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T00:59:33.932+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:33.932+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T00:59:33.935+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:33.935+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T00:59:33.952+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.025 seconds
+[2025-03-08T01:00:31.625+0700] {processor.py:186} INFO - Started process (PID=38052) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:00:31.626+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T01:00:31.628+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:31.628+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:00:31.631+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:31.630+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T01:00:35.459+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:00:35.475+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:35.474+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T01:00:35.493+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:35.493+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T01:00:35.496+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:35.496+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T01:00:35.513+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 3.894 seconds
+[2025-03-08T01:01:33.212+0700] {processor.py:186} INFO - Started process (PID=38511) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:01:33.213+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T01:01:33.215+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:33.215+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:01:33.217+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:33.217+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T01:01:37.179+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:01:37.199+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:37.199+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T01:01:37.236+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:37.236+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T01:01:37.250+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:37.249+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T01:01:37.280+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.073 seconds
+[2025-03-08T01:02:33.860+0700] {processor.py:186} INFO - Started process (PID=39012) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:02:33.862+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T01:02:33.873+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:33.873+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:02:33.876+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:33.875+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T01:02:38.877+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:02:38.896+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:38.896+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T01:02:38.921+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:38.920+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T01:02:38.925+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:38.924+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T01:02:38.946+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 5.103 seconds
+[2025-03-08T01:03:35.305+0700] {processor.py:186} INFO - Started process (PID=39751) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:03:35.307+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T01:03:35.309+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:35.308+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:03:35.311+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:35.311+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T01:03:39.384+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:03:39.400+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:39.400+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T01:03:39.420+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:39.419+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T01:03:39.423+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:39.423+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T01:03:39.441+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.142 seconds
+[2025-03-08T01:04:35.824+0700] {processor.py:186} INFO - Started process (PID=41310) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:04:35.825+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T01:04:35.827+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:35.827+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:04:35.829+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:35.829+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T01:04:39.913+0700] {processor.py:925} INFO - DAG(s) 'hourly_etl', 'daily_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T01:04:39.930+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:39.930+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T01:04:39.947+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:39.947+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T01:04:39.949+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:39.949+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T01:04:39.967+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.148 seconds
+[2025-03-08T02:20:00.721+0700] {processor.py:186} INFO - Started process (PID=63462) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:00.722+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:20:00.724+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:00.724+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:00.728+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:00.727+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:20:00.728+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:00.743+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.027 seconds
+[2025-03-08T02:20:37.694+0700] {processor.py:186} INFO - Started process (PID=64448) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:37.695+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:20:37.697+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:37.696+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:37.700+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:37.699+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:20:37.700+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:20:37.716+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.028 seconds
+[2025-03-08T02:21:18.107+0700] {processor.py:186} INFO - Started process (PID=64740) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:21:18.108+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:21:18.111+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:21:18.110+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:21:18.114+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:21:18.113+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:21:18.114+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:21:18.131+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.030 seconds
+[2025-03-08T02:25:52.857+0700] {processor.py:186} INFO - Started process (PID=65944) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:25:52.858+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:25:52.860+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:25:52.860+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:25:52.864+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:25:52.863+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:25:52.864+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:25:52.881+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.030 seconds
+[2025-03-08T02:26:44.975+0700] {processor.py:186} INFO - Started process (PID=66356) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:26:44.976+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:26:44.978+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:44.978+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:26:44.982+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:44.981+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:26:44.982+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:26:45.002+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.034 seconds
+[2025-03-08T02:28:58.971+0700] {processor.py:186} INFO - Started process (PID=67180) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:28:58.972+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:28:58.974+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:28:58.974+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:28:58.977+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:28:58.977+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:28:58.978+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:28:58.996+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.032 seconds
+[2025-03-08T02:29:56.386+0700] {processor.py:186} INFO - Started process (PID=67815) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:29:56.387+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:29:56.390+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:56.390+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:29:56.394+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:56.393+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:29:56.395+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:29:56.419+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.039 seconds
+[2025-03-08T02:30:49.664+0700] {processor.py:186} INFO - Started process (PID=68139) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:30:49.665+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:30:49.666+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:49.666+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:30:49.669+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:49.668+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:30:49.669+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:30:49.685+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.027 seconds
+[2025-03-08T02:31:44.455+0700] {processor.py:186} INFO - Started process (PID=68876) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:31:44.456+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:31:44.457+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:44.457+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:31:44.460+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:44.459+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'POS_ETL'
+[2025-03-08T02:31:44.460+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:31:44.477+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.028 seconds
+[2025-03-08T02:32:12.897+0700] {processor.py:186} INFO - Started process (PID=68990) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:32:12.898+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:32:12.900+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:12.899+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:32:12.904+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:12.903+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from airflow.POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'airflow.POS_ETL'
+[2025-03-08T02:32:12.904+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:32:12.922+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.031 seconds
+[2025-03-08T02:33:10.927+0700] {processor.py:186} INFO - Started process (PID=69245) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:33:10.928+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:33:10.929+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:10.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:33:10.933+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:10.932+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 1, in <module>
+    from airflow.POS_ETL.ETL import all_update_data, daily_transaction_update
+ModuleNotFoundError: No module named 'airflow.POS_ETL'
+[2025-03-08T02:33:10.934+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:33:10.954+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.034 seconds
+[2025-03-08T02:34:06.141+0700] {processor.py:186} INFO - Started process (PID=69613) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:34:06.142+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:34:06.144+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:06.143+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:34:06.147+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:06.147+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T02:34:15.454+0700] {processor.py:186} INFO - Started process (PID=69850) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:34:15.456+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:34:15.458+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:15.458+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:34:15.461+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:15.460+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T02:34:20.730+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:34:20.880+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:20.879+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:34:20.911+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:20.911+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:34:20.915+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:20.914+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:34:20.990+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 5.553 seconds
+[2025-03-08T02:35:17.599+0700] {processor.py:186} INFO - Started process (PID=70489) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:35:17.600+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:35:17.603+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:17.602+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:35:17.605+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:17.604+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T02:35:21.903+0700] {processor.py:925} INFO - DAG(s) 'hourly_etl', 'daily_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:35:21.921+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:21.921+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:35:21.944+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:21.944+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:35:21.948+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:21.948+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:35:21.967+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.373 seconds
+[2025-03-08T02:36:19.403+0700] {processor.py:186} INFO - Started process (PID=70920) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:36:19.404+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:36:19.406+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:19.406+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:36:19.408+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:19.408+0700] {POS_spark_dag.py:8} INFO - Current sys.path: ['/home/dataengineer/.pyenv/versions/3.9.21/bin', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python39.zip', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/lib-dynload', '/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages', '/home/dataengineer/airflow/config', '/home/dataengineer/airflow/plugins', '/home/dataengineer/airflow/dags', '/home/dataengineer']
+[2025-03-08T02:36:23.573+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:36:23.590+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:23.589+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:36:23.608+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:23.608+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:36:23.612+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:23.612+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:36:23.630+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.233 seconds
+[2025-03-08T02:37:21.311+0700] {processor.py:186} INFO - Started process (PID=71369) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:21.312+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:37:21.315+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:21.314+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:21.325+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:21.324+0700] {dagbag.py:387} ERROR - Failed to import: /home/dataengineer/airflow/dags/POS_spark_dag.py
+Traceback (most recent call last):
+  File "/home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/dataengineer/airflow/dags/POS_spark_dag.py", line 33, in <module>
+    python_callable=all_update_data,
+NameError: name 'all_update_data' is not defined
+[2025-03-08T02:37:21.325+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:21.373+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 0.070 seconds
+[2025-03-08T02:37:48.569+0700] {processor.py:186} INFO - Started process (PID=71479) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:48.570+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:37:48.571+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:48.571+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:53.038+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:37:53.054+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:53.054+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:37:53.073+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:53.073+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:37:53.076+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:53.076+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:37:53.098+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.535 seconds
+[2025-03-08T02:38:24.000+0700] {processor.py:186} INFO - Started process (PID=71927) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:38:24.001+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:38:24.004+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:24.003+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:38:28.144+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:38:28.167+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:28.167+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:38:28.188+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:28.187+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:38:28.191+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:28.191+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:38:28.210+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 4.217 seconds
+[2025-03-08T02:39:25.595+0700] {processor.py:186} INFO - Started process (PID=72550) to work on /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:39:25.597+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/POS_spark_dag.py for tasks to queue
+[2025-03-08T02:39:25.599+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:25.599+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:39:31.019+0700] {processor.py:925} INFO - DAG(s) 'daily_etl', 'hourly_etl' retrieved from /home/dataengineer/airflow/dags/POS_spark_dag.py
+[2025-03-08T02:39:31.049+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:31.049+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-08T02:39:31.087+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:31.087+0700] {dag.py:4180} INFO - Setting next_dagrun for daily_etl to None, run_after=None
+[2025-03-08T02:39:31.091+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:31.091+0700] {dag.py:4180} INFO - Setting next_dagrun for hourly_etl to None, run_after=None
+[2025-03-08T02:39:31.155+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/POS_spark_dag.py took 5.571 seconds

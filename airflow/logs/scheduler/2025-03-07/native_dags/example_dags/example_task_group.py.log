@@ -1,0 +1,154 @@
+[2025-03-08T00:56:32.182+0700] {processor.py:186} INFO - Started process (PID=36237) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:56:32.183+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T00:56:32.185+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:32.184+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:56:32.199+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:56:32.224+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:32.223+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:56:32.237+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:32.237+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T00:56:32.257+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.080 seconds
+[2025-03-08T00:57:37.688+0700] {processor.py:186} INFO - Started process (PID=36897) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:57:37.689+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T00:57:37.691+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:37.691+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:57:37.700+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:57:37.716+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:37.716+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:57:37.727+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:37.727+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T00:57:37.747+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-03-08T00:58:39.717+0700] {processor.py:186} INFO - Started process (PID=37421) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:58:39.718+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T00:58:39.720+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:39.720+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:58:39.729+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:58:39.745+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:39.744+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:58:39.756+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:39.756+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T00:58:39.776+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-03-08T00:59:41.389+0700] {processor.py:186} INFO - Started process (PID=37848) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:59:41.390+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T00:59:41.392+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:41.391+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:59:41.400+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T00:59:41.414+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:41.414+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:59:41.425+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:41.425+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T00:59:41.444+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2025-03-08T01:00:41.914+0700] {processor.py:186} INFO - Started process (PID=38280) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:00:41.915+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T01:00:41.917+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:41.917+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:00:41.925+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:00:41.940+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:41.940+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:00:41.951+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:41.951+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T01:00:41.969+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.061 seconds
+[2025-03-08T01:01:44.782+0700] {processor.py:186} INFO - Started process (PID=38735) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:01:44.783+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T01:01:44.785+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:44.784+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:01:44.794+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:01:44.811+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:44.811+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:01:44.824+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:44.824+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T01:01:44.845+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-03-08T01:02:46.309+0700] {processor.py:186} INFO - Started process (PID=39244) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:02:46.310+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T01:02:46.313+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:46.312+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:02:46.322+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:02:46.339+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:46.339+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:02:46.351+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:46.351+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T01:02:46.370+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-03-08T01:03:46.848+0700] {processor.py:186} INFO - Started process (PID=40015) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:03:46.849+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T01:03:46.851+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:46.851+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:03:46.859+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:03:46.873+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:46.873+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:03:46.884+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:46.884+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T01:03:46.908+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-03-08T01:04:47.281+0700] {processor.py:186} INFO - Started process (PID=42013) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:04:47.282+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T01:04:47.285+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:47.284+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:04:47.293+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T01:04:47.309+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:47.308+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:04:47.320+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:47.320+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T01:04:47.339+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2025-03-08T02:20:07.951+0700] {processor.py:186} INFO - Started process (PID=63509) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:20:07.952+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:20:07.954+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:07.954+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:20:07.963+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:20:07.986+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:07.985+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:20:07.998+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:07.998+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:20:08.018+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-03-08T02:26:52.204+0700] {processor.py:186} INFO - Started process (PID=66417) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:26:52.205+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:26:52.207+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:52.206+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:26:52.216+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:26:52.237+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:52.237+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:26:52.249+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:52.249+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:26:52.271+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds
+[2025-03-08T02:29:06.176+0700] {processor.py:186} INFO - Started process (PID=67267) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:29:06.177+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:29:06.179+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:06.179+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:29:06.189+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:29:06.210+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:06.210+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:29:06.222+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:06.222+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:29:06.242+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-03-08T02:30:02.616+0700] {processor.py:186} INFO - Started process (PID=67867) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:02.617+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:30:02.618+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:02.618+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:02.628+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:02.646+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:02.646+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:30:02.662+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:02.661+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:30:02.690+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2025-03-08T02:30:56.280+0700] {processor.py:186} INFO - Started process (PID=68196) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:56.281+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:30:56.282+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:56.282+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:56.290+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:30:56.304+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:56.303+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:30:56.314+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:56.314+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:30:56.334+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.059 seconds
+[2025-03-08T02:31:51.610+0700] {processor.py:186} INFO - Started process (PID=68907) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:31:51.611+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:31:51.612+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:51.612+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:31:51.622+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:31:51.637+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:51.637+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:31:51.650+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:51.649+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:31:51.669+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-03-08T02:32:48.190+0700] {processor.py:186} INFO - Started process (PID=69155) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:32:48.191+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:32:48.192+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:48.192+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:32:48.201+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:32:48.218+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:48.217+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:32:48.230+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:48.230+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:32:48.250+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2025-03-08T02:33:44.753+0700] {processor.py:186} INFO - Started process (PID=69409) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:33:44.755+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:33:44.757+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:44.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:33:44.769+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:33:44.788+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:44.788+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:33:44.801+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:44.801+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:33:44.824+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
+[2025-03-08T02:34:28.353+0700] {processor.py:186} INFO - Started process (PID=70187) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:34:28.354+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:34:28.357+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:28.357+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:34:28.367+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:34:28.393+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:28.393+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:34:28.408+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:28.408+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:34:28.434+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.087 seconds
+[2025-03-08T02:35:29.226+0700] {processor.py:186} INFO - Started process (PID=70713) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:35:29.228+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:35:29.230+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:29.229+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:35:29.239+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:35:29.255+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:29.254+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:35:29.267+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:29.266+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:35:29.289+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2025-03-08T02:36:30.933+0700] {processor.py:186} INFO - Started process (PID=71160) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:36:30.934+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:36:30.937+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:30.936+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:36:30.947+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:36:30.965+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:30.965+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:36:30.977+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:30.977+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:36:30.996+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-03-08T02:37:28.367+0700] {processor.py:186} INFO - Started process (PID=71395) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:37:28.368+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:37:28.370+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:28.370+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:37:28.379+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:37:28.395+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:28.395+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:37:28.408+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:28.408+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:37:28.428+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.068 seconds
+[2025-03-08T02:38:35.180+0700] {processor.py:186} INFO - Started process (PID=72255) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:38:35.181+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-03-08T02:38:35.183+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:35.183+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:38:35.193+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-03-08T02:38:35.214+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:35.214+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:38:35.228+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:35.228+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2025-03-08T02:38:35.247+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.073 seconds

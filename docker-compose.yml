@@ -1,0 +1,270 @@
+
+services:
+  # PostgreSQL database for Airflow and ETL
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=airflow
+      - TZ=Asia/Bangkok
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - your_network
+  
+  # Apache Spark for ETL
+  spark-master:
+    image: apache/spark:latest
+    container_name: spark-master
+    hostname: spark-master
+    environment:
+      - SPARK_MASTER_HOST=spark-master
+      - SPARK_MASTER_PORT=7077
+      - SPARK_MASTER_WEBUI_PORT=8081
+      - HADOOP_HOME=/opt/hadoop
+      - LD_LIBRARY_PATH=/opt/hadoop/lib/native
+    ports:
+      - "7077:7077"  # Spark master port
+      - "8081:8081"  # Spark master web UI
+    volumes:
+      - ./jars/postgresql-42.5.6.jar:/opt/jars/postgresql-42.5.6.jar
+      - ./secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ./secondDataPipeline/products_data:/opt/airflow/products_data
+      - ./secondDataPipeline/customers_data:/opt/airflow/customers_data
+    networks:
+      - your_network
+    command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master"]
+
+  spark-worker:
+    image: bitnami/spark:latest
+    container_name: spark-worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER=spark://spark-master:7077  # Connects to the spark-master container
+      - HADOOP_HOME=/opt/hadoop
+      - LD_LIBRARY_PATH=/opt/hadoop/lib/native
+    volumes:
+      - ./secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ./secondDataPipeline/products_data:/opt/airflow/products_data
+      - ./secondDataPipeline/customers_data:/opt/airflow/customers_data
+    depends_on:
+      - spark-master
+    networks:
+      - your_network
+    mem_limit: 2g
+    cpus: 1.0
+
+  # Zookeeper service for Kafka
+  zookeeper:
+    image: bitnami/zookeeper
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ALLOW_ANONYMOUS_LOGIN: yes
+    ports:
+      - "2181:2181"
+    networks:
+      - your_network
+
+  # Kafka service
+  kafka:
+    image: bitnami/kafka:latest
+    container_name: kafka
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: LISTENER_DOC://kafka:29092, PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENERS: LISTENER_DOC://0.0.0.0:29092, PLAINTEXT_HOST://0.0.0.0:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: LISTENER_DOC
+      KAFKA_LISTENER_NAME_HOST: PLAINTEXT_HOST
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: LISTENER_DOC:PLAINTEXT, PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_LISTENER_PORT: 9092
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ZOOKEEPER_CONNECTION_TIMEOUT_MS: 3000
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    networks:
+      - your_network
+    depends_on:
+      - zookeeper
+
+  # Kafka consumer service
+  kafka_consumer:
+    container_name: kafka-consumer
+    build:
+      context: ./secondDataPipeline/kafka_consumer
+    environment:
+      - TZ=Asia/Bangkok
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 500M
+    depends_on:
+      - kafka
+    ports:
+      - "5000:5000"
+    volumes:
+      - ~/secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ~/secondDataPipeline/products_data:/opt/airflow/products_data
+      - ~/secondDataPipeline/customers_data:/opt/airflow/customers_data
+      - ~/secondDataPipeline/sale_id_tracker.txt:/data/sale_id_tracker.txt
+    networks:
+      - your_network
+
+  # Kafka producer service
+  kafka_producer:
+    container_name: kafka-producer
+    build:
+      context: ./secondDataPipeline/kafka_producer
+    environment:
+      - TZ=Asia/Bangkok
+    depends_on:
+      - kafka
+    ports:
+      - "8501:8501"
+    volumes:
+      - ~/secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ~/secondDataPipeline/products_data:/opt/airflow/products_data
+      - ~/secondDataPipeline/customers_data:/opt/airflow/customers_data
+    networks:
+      - your_network
+
+  # Airflow Database Initialization Step (One-time Setup)
+  airflow-init:
+    image: apache/airflow:2.10.5
+    container_name: airflow-init
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    depends_on:
+      - postgres
+      - spark-master
+      - spark-worker
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://user:password@postgres:5432/airflow
+      - AIRFLOW__WEBSERVER__SECRET_KEY=mysecretkey123  # Ensure all components have the same secret key
+      - TZ=Asia/Bangkok
+      - PYSPARK_MASTER=spark://spark-master:7077
+    entrypoint: ["/bin/bash", "-c", "airflow db upgrade && airflow connections create-default-connections && tail -f /dev/null"]
+    networks:
+      - your_network
+
+  # Airflow Webserver
+  airflow-webserver:
+    image: apache/airflow:2.10.5
+    container_name: airflow-webserver
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://user:password@postgres:5432/airflow
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - _AIRFLOW_WWW_USER_USERNAME=admin
+      - _AIRFLOW_WWW_USER_PASSWORD=admin
+      - AIRFLOW__WEBSERVER__SECRET_KEY=mysecretkey123  # Ensure all components have the same secret key
+      - TZ=Asia/Bangkok
+      - PYSPARK_PYTHON=/usr/bin/python3
+      - PYSPARK_DRIVER_PYTHON=/usr/bin/python3
+      - PYSPARK_MASTER=spark://spark-master:7077
+    command: webserver
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ./secondDataPipeline/products_data:/opt/airflow/products_data
+      - ./secondDataPipeline/customers_data:/opt/airflow/customers_data
+      - ./jars/postgresql-42.5.6.jar:/opt/jars/postgresql-42.5.6.jar
+    networks:
+      - your_network
+    depends_on:
+      - airflow-init
+      - airflow-scheduler
+      - postgres
+      - spark-master
+      - spark-worker
+
+  # Airflow Scheduler
+  airflow-scheduler:
+    image: apache/airflow:2.10.5
+    container_name: airflow-scheduler
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://user:password@postgres:5432/airflow
+      - AIRFLOW__WEBSERVER__SECRET_KEY=mysecretkey123  # Ensure all components have the same secret key
+      - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+      - AIRFLOW__CELERY__BROKER_URL=redis://redis:6379/0
+      - AIRFLOW__CELERY__RESULT_BACKEND=redis://redis:6379/0
+      - TZ=Asia/Bangkok
+      - PYSPARK_MASTER=spark://spark-master:7077
+    depends_on:
+      - airflow-init
+      - postgres
+      - spark-master
+      - spark-worker
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ./secondDataPipeline/products_data:/opt/airflow/products_data
+      - ./secondDataPipeline/customers_data:/opt/airflow/customers_data
+      - ./jars/postgresql-42.5.6.jar:/opt/jars/postgresql-42.5.6.jar
+    command: scheduler
+    networks:
+      - your_network
+
+  # Airflow Worker
+  airflow-worker:
+    container_name: airflow-worker
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+    - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://user:password@postgres:5432/airflow
+    - AIRFLOW__CORE__EXECUTOR=CeleryExecutor
+    - AIRFLOW__CELERY__BROKER_URL=redis://redis:6379/0
+    - AIRFLOW__CELERY__RESULT_BACKEND=redis://redis:6379/0
+    - AIRFLOW__WEBSERVER__SECRET_KEY=mysecretkey123  # Ensure all components have the same secret key
+    - TZ=Asia/Bangkok
+    - PYSPARK_MASTER=spark://spark-master:7077
+    depends_on:
+      - airflow-init
+      - airflow-scheduler
+      - postgres
+      - spark-master
+      - spark-worker
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./secondDataPipeline/sales_data:/opt/airflow/sales_data
+      - ./secondDataPipeline/products_data:/opt/airflow/products_data
+      - ./secondDataPipeline/customers_data:/opt/airflow/customers_data
+      - ./jars/postgresql-42.5.6.jar:/opt/jars/postgresql-42.5.6.jar
+    command: airflow celery worker
+    networks:
+      - your_network
+
+  redis:
+    image: redis:alpine
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - your_network
+
+# Volumes section
+volumes:
+  postgres_data:
+    driver: local
+    
+
+networks:
+  your_network:
+    driver: bridge

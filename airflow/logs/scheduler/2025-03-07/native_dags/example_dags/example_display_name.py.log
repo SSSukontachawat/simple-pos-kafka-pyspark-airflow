@@ -1,0 +1,133 @@
+[2025-03-08T00:57:02.839+0700] {processor.py:186} INFO - Started process (PID=36464) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:57:02.840+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T00:57:02.843+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:02.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:57:02.850+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:57:02.865+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:02.865+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:57:02.878+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:02.878+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T00:57:02.898+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.064 seconds
+[2025-03-08T00:58:05.931+0700] {processor.py:186} INFO - Started process (PID=37106) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:58:05.932+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T00:58:05.934+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:05.933+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:58:05.941+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:58:05.954+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:05.954+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:58:05.966+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:05.966+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T00:58:05.986+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-08T00:59:07.713+0700] {processor.py:186} INFO - Started process (PID=37535) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:59:07.714+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T00:59:07.716+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:07.716+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:59:07.724+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T00:59:07.739+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:07.738+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:59:07.750+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:07.750+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T00:59:07.769+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-08T01:00:09.416+0700] {processor.py:186} INFO - Started process (PID=37963) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:00:09.417+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:00:09.419+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:09.419+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:00:09.427+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:00:09.439+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:09.439+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:00:09.451+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:09.451+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:00:09.469+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.059 seconds
+[2025-03-08T01:01:11.085+0700] {processor.py:186} INFO - Started process (PID=38394) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:01:11.086+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:01:11.088+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:11.088+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:01:11.096+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:01:11.109+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:11.109+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:01:11.122+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:11.122+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:01:11.143+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.064 seconds
+[2025-03-08T01:02:12.859+0700] {processor.py:186} INFO - Started process (PID=38915) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:02:12.860+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:02:12.862+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:12.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:02:12.870+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:02:12.883+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:12.883+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:02:12.894+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:12.894+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:02:12.915+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-08T01:03:13.016+0700] {processor.py:186} INFO - Started process (PID=39460) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:03:13.018+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:03:13.020+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:13.019+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:03:13.028+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:03:13.041+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:13.041+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:03:13.053+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:13.053+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:03:13.073+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-08T01:04:14.845+0700] {processor.py:186} INFO - Started process (PID=41183) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:04:14.846+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:04:14.848+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:14.848+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:04:14.859+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:04:14.875+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:14.875+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:04:14.888+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:14.888+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:04:14.909+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.071 seconds
+[2025-03-08T01:05:14.084+0700] {processor.py:186} INFO - Started process (PID=42614) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:05:14.085+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T01:05:14.087+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:05:14.087+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:05:14.097+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T01:05:14.112+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:05:14.112+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:05:14.126+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:05:14.126+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T01:05:14.146+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.068 seconds
+[2025-03-08T02:29:33.962+0700] {processor.py:186} INFO - Started process (PID=67582) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:29:33.963+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:29:33.965+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:33.965+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:29:33.972+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:29:33.985+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:33.985+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:29:33.996+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:33.996+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:29:34.014+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.057 seconds
+[2025-03-08T02:30:31.762+0700] {processor.py:186} INFO - Started process (PID=68048) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:30:31.763+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:30:31.764+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:31.764+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:30:31.771+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:30:31.783+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:31.783+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:30:31.795+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:31.795+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:30:31.813+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.056 seconds
+[2025-03-08T02:31:28.322+0700] {processor.py:186} INFO - Started process (PID=68536) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:31:28.323+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:31:28.325+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:28.324+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:31:28.333+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:31:28.346+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:28.346+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:31:28.358+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:28.358+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:31:28.377+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.061 seconds
+[2025-03-08T02:32:25.132+0700] {processor.py:186} INFO - Started process (PID=69066) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:32:25.134+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:32:25.136+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:25.135+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:32:25.144+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:32:25.158+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:25.158+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:32:25.172+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:25.172+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:32:25.195+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.069 seconds
+[2025-03-08T02:33:23.579+0700] {processor.py:186} INFO - Started process (PID=69321) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:33:23.580+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:33:23.582+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:23.582+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:33:23.594+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:33:23.615+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:23.615+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:33:23.633+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:23.633+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:33:23.660+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.088 seconds
+[2025-03-08T02:34:58.156+0700] {processor.py:186} INFO - Started process (PID=70402) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:34:58.157+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:34:58.159+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:58.159+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:34:58.166+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:34:58.179+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:58.179+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:34:58.190+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:58.190+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:34:58.208+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.057 seconds
+[2025-03-08T02:35:58.842+0700] {processor.py:186} INFO - Started process (PID=70838) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:35:58.844+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:35:58.846+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:58.845+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:35:58.853+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:35:58.866+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:58.866+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:35:58.879+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:58.879+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:35:58.899+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.062 seconds
+[2025-03-08T02:37:00.708+0700] {processor.py:186} INFO - Started process (PID=71283) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:37:00.709+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:37:00.711+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:00.711+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:37:00.718+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:37:00.732+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:00.732+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:37:00.747+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:00.746+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:37:00.768+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.066 seconds
+[2025-03-08T02:38:04.600+0700] {processor.py:186} INFO - Started process (PID=71724) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:38:04.608+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:38:04.611+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:04.610+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:38:04.624+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:38:04.645+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:04.645+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:38:04.662+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:04.662+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:38:04.684+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.090 seconds
+[2025-03-08T02:39:04.297+0700] {processor.py:186} INFO - Started process (PID=72461) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:39:04.298+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-03-08T02:39:04.303+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:04.302+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:39:04.310+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-03-08T02:39:04.331+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:04.330+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:39:04.347+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:39:04.347+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-03-08T02:39:04.372+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds

@@ -1,0 +1,1120 @@
+[2025-03-06T16:11:11.787+0700] {processor.py:186} INFO - Started process (PID=87977) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:11:11.788+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:11:11.790+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:11:11.790+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:11:11.798+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:11:11.938+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:11:11.937+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:11:11.949+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:11:11.949+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:11:11.969+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.187 seconds
+[2025-03-06T16:12:08.123+0700] {processor.py:186} INFO - Started process (PID=88377) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:08.124+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:12:08.127+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:08.126+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:08.133+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:08.145+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:08.145+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:12:08.157+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:08.157+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:12:08.176+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:12:59.387+0700] {processor.py:186} INFO - Started process (PID=88668) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:59.389+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:12:59.391+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:59.391+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:59.402+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:12:59.416+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:59.415+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:12:59.428+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:12:59.428+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:12:59.446+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T16:13:48.596+0700] {processor.py:186} INFO - Started process (PID=88885) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:13:48.597+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:13:48.599+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:13:48.599+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:13:48.606+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:13:48.619+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:13:48.619+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:13:48.631+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:13:48.631+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:13:48.649+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:14:39.769+0700] {processor.py:186} INFO - Started process (PID=89099) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:14:39.770+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:14:39.772+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:14:39.772+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:14:39.778+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:14:39.791+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:14:39.791+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:14:39.803+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:14:39.803+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:14:39.821+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:15:30.084+0700] {processor.py:186} INFO - Started process (PID=89307) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:15:30.085+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:15:30.087+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:15:30.087+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:15:30.093+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:15:30.107+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:15:30.106+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:15:30.119+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:15:30.118+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:15:30.140+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:16:19.046+0700] {processor.py:186} INFO - Started process (PID=89541) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:16:19.047+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:16:19.049+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:16:19.049+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:16:19.055+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:16:19.068+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:16:19.068+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:16:19.079+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:16:19.079+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:16:19.098+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:17:12.118+0700] {processor.py:186} INFO - Started process (PID=89765) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:17:12.119+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:17:12.121+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:17:12.120+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:17:12.127+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:17:12.140+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:17:12.140+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:17:12.152+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:17:12.151+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:17:12.170+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:18:01.770+0700] {processor.py:186} INFO - Started process (PID=89966) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:01.771+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:18:01.773+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:01.773+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:01.779+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:01.792+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:01.792+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:18:01.803+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:01.803+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:18:01.823+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:18:50.712+0700] {processor.py:186} INFO - Started process (PID=90170) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:50.713+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:18:50.715+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:50.715+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:50.721+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:18:50.734+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:50.734+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:18:50.745+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:18:50.745+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:18:50.764+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:19:41.978+0700] {processor.py:186} INFO - Started process (PID=90384) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:19:41.979+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:19:41.981+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:19:41.981+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:19:41.988+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:19:42.002+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:19:42.002+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:19:42.014+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:19:42.014+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:19:42.034+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T16:20:36.266+0700] {processor.py:186} INFO - Started process (PID=90606) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:20:36.267+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:20:36.269+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:20:36.269+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:20:36.276+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:20:36.288+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:20:36.288+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:20:36.299+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:20:36.299+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:20:36.318+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:21:26.858+0700] {processor.py:186} INFO - Started process (PID=90846) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:21:26.859+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:21:26.861+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:21:26.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:21:26.868+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:21:26.880+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:21:26.880+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:21:26.892+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:21:26.891+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:21:26.910+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:22:18.904+0700] {processor.py:186} INFO - Started process (PID=91062) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:22:18.906+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:22:18.908+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:22:18.907+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:22:18.914+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:22:18.928+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:22:18.927+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:22:18.939+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:22:18.939+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:22:18.958+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:23:11.266+0700] {processor.py:186} INFO - Started process (PID=91280) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:23:11.268+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:23:11.270+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:23:11.270+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:23:11.276+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:23:11.289+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:23:11.288+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:23:11.300+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:23:11.300+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:23:11.319+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:24:00.728+0700] {processor.py:186} INFO - Started process (PID=91488) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:00.729+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:24:00.731+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:00.731+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:00.737+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:00.750+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:00.750+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:24:00.762+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:00.761+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:24:00.780+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:24:52.022+0700] {processor.py:186} INFO - Started process (PID=91694) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:52.023+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:24:52.025+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:52.024+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:52.031+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:24:52.044+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:52.044+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:24:52.056+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:24:52.056+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:24:52.077+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T16:25:37.925+0700] {processor.py:186} INFO - Started process (PID=91911) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:25:37.927+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:25:37.929+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:25:37.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:25:37.937+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:25:37.953+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:25:37.952+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:25:37.965+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:25:37.965+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:25:37.984+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T16:26:29.176+0700] {processor.py:186} INFO - Started process (PID=92135) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:26:29.177+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:26:29.179+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:26:29.179+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:26:29.185+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:26:29.198+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:26:29.198+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:26:29.210+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:26:29.210+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:26:29.229+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:27:20.600+0700] {processor.py:186} INFO - Started process (PID=92349) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:27:20.601+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:27:20.603+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:27:20.603+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:27:20.611+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:27:20.625+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:27:20.624+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:27:20.636+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:27:20.636+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:27:20.655+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:28:14.492+0700] {processor.py:186} INFO - Started process (PID=92570) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:28:14.494+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:28:14.496+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:28:14.495+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:28:14.502+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:28:14.515+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:28:14.515+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:28:14.526+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:28:14.526+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:28:14.544+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:29:04.944+0700] {processor.py:186} INFO - Started process (PID=92777) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:04.945+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:29:04.947+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:04.946+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:04.953+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:04.966+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:04.966+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:29:04.977+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:04.977+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:29:04.995+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:29:53.820+0700] {processor.py:186} INFO - Started process (PID=92984) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:53.821+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:29:53.823+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:53.823+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:53.829+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:29:53.842+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:53.842+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:29:53.853+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:29:53.853+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:29:53.872+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:30:46.342+0700] {processor.py:186} INFO - Started process (PID=93225) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:30:46.343+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:30:46.346+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:30:46.345+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:30:46.352+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:30:46.364+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:30:46.364+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:30:46.376+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:30:46.375+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:30:46.395+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:31:38.034+0700] {processor.py:186} INFO - Started process (PID=93445) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:31:38.035+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:31:38.037+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:31:38.037+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:31:38.043+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:31:38.056+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:31:38.056+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:31:38.067+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:31:38.067+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:31:38.086+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:32:26.972+0700] {processor.py:186} INFO - Started process (PID=93653) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:32:26.973+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:32:26.975+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:32:26.975+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:32:26.982+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:32:26.995+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:32:26.994+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:32:27.006+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:32:27.006+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:32:27.025+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:33:16.488+0700] {processor.py:186} INFO - Started process (PID=93851) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:33:16.489+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:33:16.492+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:33:16.491+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:33:16.498+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:33:16.511+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:33:16.511+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:33:16.522+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:33:16.522+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:33:16.541+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:34:08.061+0700] {processor.py:186} INFO - Started process (PID=94070) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:08.062+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:34:08.064+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:08.064+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:08.071+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:08.085+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:08.085+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:34:08.097+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:08.097+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:34:08.116+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T16:34:58.804+0700] {processor.py:186} INFO - Started process (PID=94278) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:58.806+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:34:58.807+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:58.807+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:58.814+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:34:58.827+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:58.827+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:34:58.839+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:34:58.839+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:34:58.859+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:35:49.338+0700] {processor.py:186} INFO - Started process (PID=94520) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:35:49.339+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:35:49.342+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:35:49.341+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:35:49.348+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:35:49.361+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:35:49.361+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:35:49.373+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:35:49.372+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:35:49.391+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:36:39.605+0700] {processor.py:186} INFO - Started process (PID=94728) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:36:39.607+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:36:39.609+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:36:39.608+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:36:39.615+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:36:39.628+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:36:39.628+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:36:39.640+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:36:39.640+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:36:39.659+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:37:31.170+0700] {processor.py:186} INFO - Started process (PID=94940) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:37:31.171+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:37:31.173+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:37:31.172+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:37:31.179+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:37:31.192+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:37:31.192+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:37:31.203+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:37:31.203+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:37:31.221+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.057 seconds
+[2025-03-06T16:38:23.586+0700] {processor.py:186} INFO - Started process (PID=95161) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:38:23.588+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:38:23.590+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:38:23.590+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:38:23.596+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:38:23.610+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:38:23.610+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:38:23.624+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:38:23.624+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:38:23.648+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.067 seconds
+[2025-03-06T16:39:14.942+0700] {processor.py:186} INFO - Started process (PID=95374) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:39:14.943+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:39:14.945+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:39:14.945+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:39:14.952+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:39:14.965+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:39:14.965+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:39:14.977+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:39:14.976+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:39:14.995+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:40:05.758+0700] {processor.py:186} INFO - Started process (PID=95611) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:05.759+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:40:05.761+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:05.761+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:05.769+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:05.785+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:05.784+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:40:05.797+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:05.796+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:40:05.815+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T16:40:53.784+0700] {processor.py:186} INFO - Started process (PID=95818) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:53.785+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:40:53.788+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:53.788+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:53.796+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:40:53.811+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:53.811+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:40:53.825+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:40:53.825+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:40:53.847+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T16:41:46.150+0700] {processor.py:186} INFO - Started process (PID=96031) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:41:46.151+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:41:46.153+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:41:46.153+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:41:46.160+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:41:46.173+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:41:46.173+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:41:46.184+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:41:46.184+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:41:46.202+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:42:36.836+0700] {processor.py:186} INFO - Started process (PID=96242) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:42:36.837+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:42:36.839+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:42:36.839+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:42:36.846+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:42:36.860+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:42:36.859+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:42:36.871+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:42:36.871+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:42:36.891+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:43:25.668+0700] {processor.py:186} INFO - Started process (PID=96448) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:43:25.669+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:43:25.671+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:43:25.671+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:43:25.678+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:43:25.691+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:43:25.691+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:43:25.703+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:43:25.703+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:43:25.726+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T16:44:18.462+0700] {processor.py:186} INFO - Started process (PID=96668) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:44:18.463+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:44:18.465+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:44:18.465+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:44:18.472+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:44:18.485+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:44:18.484+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:44:18.496+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:44:18.496+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:44:18.515+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:45:05.761+0700] {processor.py:186} INFO - Started process (PID=96897) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:05.762+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:45:05.764+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:05.763+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:05.771+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:05.784+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:05.784+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:45:05.795+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:05.795+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:45:05.814+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:45:55.058+0700] {processor.py:186} INFO - Started process (PID=97104) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:55.059+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:45:55.061+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:55.061+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:55.068+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:45:55.081+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:55.081+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:45:55.093+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:45:55.093+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:45:55.111+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:46:46.185+0700] {processor.py:186} INFO - Started process (PID=97311) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:46:46.186+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:46:46.188+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:46:46.188+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:46:46.194+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:46:46.209+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:46:46.208+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:46:46.221+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:46:46.221+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:46:46.240+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T16:47:36.250+0700] {processor.py:186} INFO - Started process (PID=97624) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:47:36.251+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:47:36.253+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:47:36.253+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:47:36.260+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:47:36.273+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:47:36.273+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:47:36.285+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:47:36.285+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:47:36.304+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:48:26.397+0700] {processor.py:186} INFO - Started process (PID=97920) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:48:26.398+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:48:26.400+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:48:26.400+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:48:26.406+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:48:26.419+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:48:26.419+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:48:26.430+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:48:26.430+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:48:26.449+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:49:19.231+0700] {processor.py:186} INFO - Started process (PID=98255) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:19.232+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:49:19.235+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:19.235+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:19.243+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:19.256+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:19.256+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:49:19.268+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:19.268+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:49:19.288+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T16:49:24.529+0700] {processor.py:186} INFO - Started process (PID=98352) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:24.530+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:49:24.533+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:24.532+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:24.543+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:24.566+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:24.565+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:49:24.577+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:24.577+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:49:24.596+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.074 seconds
+[2025-03-06T16:49:42.773+0700] {processor.py:186} INFO - Started process (PID=98609) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:42.775+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:49:42.777+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:42.777+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:42.785+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:49:42.810+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:42.810+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:49:42.823+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:49:42.822+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:49:42.841+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.074 seconds
+[2025-03-06T16:50:38.580+0700] {processor.py:186} INFO - Started process (PID=98992) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:50:38.581+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:50:38.583+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:50:38.583+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:50:38.589+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:50:38.602+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:50:38.602+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:50:38.614+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:50:38.613+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:50:38.632+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:51:27.518+0700] {processor.py:186} INFO - Started process (PID=99314) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:27.519+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:51:27.521+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:27.521+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:27.529+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:27.550+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:27.549+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:51:27.561+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:27.561+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:51:27.579+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.067 seconds
+[2025-03-06T16:51:28.742+0700] {processor.py:186} INFO - Started process (PID=99317) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:28.744+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:51:28.746+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:28.746+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:28.757+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:51:28.772+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:28.771+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:51:28.784+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:51:28.783+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:51:28.804+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T16:52:16.604+0700] {processor.py:186} INFO - Started process (PID=99828) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:16.605+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:52:16.607+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:16.607+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:16.614+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:16.627+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:16.627+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:52:16.638+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:16.638+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:52:16.658+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:52:22.425+0700] {processor.py:186} INFO - Started process (PID=99851) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:22.426+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:52:22.428+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:22.428+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:22.434+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:52:22.448+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:22.448+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:52:22.460+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:52:22.460+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:52:22.479+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:53:07.740+0700] {processor.py:186} INFO - Started process (PID=100090) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:07.741+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:53:07.743+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:07.743+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:07.749+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:07.762+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:07.762+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:53:07.774+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:07.774+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:53:07.793+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:53:12.568+0700] {processor.py:186} INFO - Started process (PID=100120) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:12.569+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:53:12.571+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:12.571+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:12.580+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:12.593+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:12.593+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:53:12.604+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:12.604+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:53:12.623+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:53:58.377+0700] {processor.py:186} INFO - Started process (PID=100618) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:58.378+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:53:58.380+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:58.380+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:58.386+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:53:58.400+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:58.399+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:53:58.411+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:53:58.411+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:53:58.430+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:54:04.181+0700] {processor.py:186} INFO - Started process (PID=100649) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:04.182+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:54:04.185+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:04.185+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:04.192+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:04.206+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:04.206+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:54:04.218+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:04.218+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:54:04.237+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:54:48.468+0700] {processor.py:186} INFO - Started process (PID=100908) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:48.469+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:54:48.471+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:48.471+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:48.478+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:48.491+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:48.490+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:54:48.502+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:48.502+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:54:48.522+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:54:55.270+0700] {processor.py:186} INFO - Started process (PID=100943) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:55.271+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:54:55.273+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:55.273+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:55.279+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:54:55.302+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:55.302+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:54:55.314+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:54:55.313+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:54:55.331+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T16:55:36.797+0700] {processor.py:186} INFO - Started process (PID=101161) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:36.798+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:55:36.800+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:36.800+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:36.806+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:36.819+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:36.819+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:55:36.831+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:36.831+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:55:36.849+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T16:55:43.047+0700] {processor.py:186} INFO - Started process (PID=101194) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:43.048+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:55:43.051+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:43.050+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:43.057+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:55:43.070+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:43.070+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:55:43.082+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:55:43.082+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:55:43.100+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:56:28.526+0700] {processor.py:186} INFO - Started process (PID=101448) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:28.528+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:56:28.530+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:28.530+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:28.536+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:28.550+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:28.549+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:56:28.561+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:28.561+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:56:28.583+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:56:30.880+0700] {processor.py:186} INFO - Started process (PID=101465) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:30.881+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:56:30.884+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:30.883+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:30.891+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:56:30.905+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:30.905+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:56:30.918+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:56:30.918+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:56:30.942+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T16:57:19.314+0700] {processor.py:186} INFO - Started process (PID=101740) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.315+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:57:19.317+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.317+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.324+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.337+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.337+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:57:19.348+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.348+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:57:19.368+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:57:19.378+0700] {processor.py:186} INFO - Started process (PID=101741) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.379+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:57:19.380+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.380+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.387+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:57:19.400+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.400+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:57:19.412+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:57:19.412+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:57:19.431+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T16:58:08.244+0700] {processor.py:186} INFO - Started process (PID=101994) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:08.245+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:58:08.247+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:08.247+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:08.254+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:08.267+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:08.267+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:58:08.280+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:08.279+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:58:08.298+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:58:10.300+0700] {processor.py:186} INFO - Started process (PID=102005) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:10.300+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:58:10.302+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:10.302+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:10.309+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:58:10.323+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:10.323+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:58:10.336+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:58:10.336+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:58:10.355+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:59:02.111+0700] {processor.py:186} INFO - Started process (PID=102275) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.113+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:59:02.115+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.114+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.122+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.136+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.136+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:59:02.149+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.148+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:59:02.172+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T16:59:02.491+0700] {processor.py:186} INFO - Started process (PID=102276) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.492+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:59:02.494+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.494+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.500+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:02.513+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.513+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:59:02.525+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:02.524+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:59:02.545+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T16:59:53.821+0700] {processor.py:186} INFO - Started process (PID=102652) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.822+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:59:53.824+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.824+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.831+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.844+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.844+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:59:53.856+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.856+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:59:53.878+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T16:59:53.727+0700] {processor.py:186} INFO - Started process (PID=102661) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.728+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T16:59:53.730+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.730+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.737+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T16:59:53.750+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.750+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T16:59:53.762+0700] {logging_mixin.py:190} INFO - [2025-03-06T16:59:53.762+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T16:59:53.781+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:00:45.553+0700] {processor.py:186} INFO - Started process (PID=103182) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:45.554+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:00:45.556+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:45.556+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:45.564+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:45.578+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:45.578+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:00:45.590+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:45.590+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:00:45.610+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:00:46.151+0700] {processor.py:186} INFO - Started process (PID=103183) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:46.152+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:00:46.154+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:46.153+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:46.161+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:00:46.174+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:46.174+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:00:46.187+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:00:46.186+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:00:46.208+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:01:33.272+0700] {processor.py:186} INFO - Started process (PID=103434) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:33.273+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:01:33.275+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:33.275+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:33.283+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:33.297+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:33.296+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:01:33.308+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:33.308+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:01:33.326+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:01:37.134+0700] {processor.py:186} INFO - Started process (PID=103454) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:37.134+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:01:37.136+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:37.136+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:37.144+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:01:37.158+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:37.158+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:01:37.172+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:01:37.172+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:01:37.191+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:02:28.918+0700] {processor.py:186} INFO - Started process (PID=103749) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:28.920+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:02:28.922+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:28.921+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:28.929+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:28.942+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:28.942+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:02:28.955+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:28.955+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:02:28.974+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:02:30.542+0700] {processor.py:186} INFO - Started process (PID=103758) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:30.543+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:02:30.544+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:30.544+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:30.551+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:02:30.565+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:30.564+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:02:30.576+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:02:30.576+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:02:30.596+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:03:22.659+0700] {processor.py:186} INFO - Started process (PID=104027) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:22.660+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:03:22.662+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:22.662+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:22.668+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:22.682+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:22.682+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:03:22.694+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:22.693+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:03:22.714+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:03:23.164+0700] {processor.py:186} INFO - Started process (PID=104028) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:23.165+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:03:23.167+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:23.167+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:23.173+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:03:23.188+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:23.188+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:03:23.201+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:03:23.201+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:03:23.225+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.066 seconds
+[2025-03-06T17:04:10.293+0700] {processor.py:186} INFO - Started process (PID=104307) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:10.294+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:04:10.296+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:10.295+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:10.303+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:10.318+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:10.318+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:04:10.330+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:10.330+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:04:10.352+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:04:18.294+0700] {processor.py:186} INFO - Started process (PID=104348) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:18.295+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:04:18.298+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:18.298+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:18.307+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:04:18.325+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:18.324+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:04:18.338+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:04:18.337+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:04:18.358+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.070 seconds
+[2025-03-06T17:05:00.613+0700] {processor.py:186} INFO - Started process (PID=104562) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:00.615+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:05:00.617+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:00.617+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:00.624+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:00.639+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:00.639+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:05:00.652+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:00.652+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:05:00.679+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.071 seconds
+[2025-03-06T17:05:15.144+0700] {processor.py:186} INFO - Started process (PID=104660) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:15.146+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:05:15.149+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:15.148+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:15.157+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:15.174+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:15.173+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:05:15.188+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:15.188+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:05:15.211+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.074 seconds
+[2025-03-06T17:05:49.257+0700] {processor.py:186} INFO - Started process (PID=104858) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:49.259+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:05:49.261+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:49.260+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:49.267+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:05:49.281+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:49.281+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:05:49.293+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:05:49.293+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:05:49.313+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:06:05.139+0700] {processor.py:186} INFO - Started process (PID=104960) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:05.140+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:06:05.142+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:05.141+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:05.148+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:05.162+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:05.161+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:06:05.174+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:05.173+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:06:05.198+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:06:37.818+0700] {processor.py:186} INFO - Started process (PID=105127) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:37.916+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:06:37.918+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:37.917+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:37.924+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:37.938+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:37.937+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:06:37.949+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:37.949+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:06:37.967+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.156 seconds
+[2025-03-06T17:06:52.935+0700] {processor.py:186} INFO - Started process (PID=105209) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:52.936+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:06:52.937+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:52.937+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:52.945+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:06:52.960+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:52.959+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:06:52.971+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:06:52.971+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:06:52.990+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:07:24.944+0700] {processor.py:186} INFO - Started process (PID=105377) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:24.946+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:07:24.948+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:24.947+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:24.954+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:24.967+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:24.967+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:07:24.979+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:24.979+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:07:24.998+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:07:43.578+0700] {processor.py:186} INFO - Started process (PID=105480) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:43.579+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:07:43.581+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:43.581+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:43.587+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:07:43.601+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:43.601+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:07:43.616+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:07:43.616+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:07:43.635+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:08:17.842+0700] {processor.py:186} INFO - Started process (PID=105885) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:17.845+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:08:17.847+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:17.847+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:17.854+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:17.867+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:17.866+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:08:17.878+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:17.878+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:08:17.897+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:08:31.606+0700] {processor.py:186} INFO - Started process (PID=105994) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:31.607+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:08:31.609+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:31.609+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:31.616+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:08:31.629+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:31.628+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:08:31.640+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:08:31.640+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:08:31.659+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.058 seconds
+[2025-03-06T17:09:12.000+0700] {processor.py:186} INFO - Started process (PID=106229) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:12.002+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:09:12.003+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:12.003+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:12.010+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:12.023+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:12.023+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:09:12.035+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:12.035+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:09:12.058+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:09:20.832+0700] {processor.py:186} INFO - Started process (PID=106281) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:20.833+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:09:20.839+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:20.838+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:20.847+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:20.863+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:20.862+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:09:20.875+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:20.875+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:09:20.896+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.070 seconds
+[2025-03-06T17:09:48.258+0700] {processor.py:186} INFO - Started process (PID=106548) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:48.259+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:09:48.261+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:48.261+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:48.270+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:09:48.292+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:48.291+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:09:48.305+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:09:48.305+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:09:48.327+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.075 seconds
+[2025-03-06T17:10:02.559+0700] {processor.py:186} INFO - Started process (PID=106734) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:02.561+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:10:02.563+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:02.562+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:02.569+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:02.583+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:02.583+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:10:02.595+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:02.594+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:10:02.615+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:10:05.691+0700] {processor.py:186} INFO - Started process (PID=106775) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:05.692+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:10:05.694+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:05.694+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:05.702+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:10:05.723+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:05.722+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:10:05.734+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:10:05.734+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:10:05.753+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.067 seconds
+[2025-03-06T17:11:04.024+0700] {processor.py:186} INFO - Started process (PID=107610) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:04.025+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:11:04.027+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:04.026+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:04.034+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:04.047+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:04.047+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:11:04.059+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:04.059+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:11:04.079+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:11:57.232+0700] {processor.py:186} INFO - Started process (PID=107911) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.234+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:11:57.235+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.235+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.244+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.264+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.264+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:11:57.276+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.276+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:11:57.295+0700] {processor.py:186} INFO - Started process (PID=107912) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.296+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.069 seconds
+[2025-03-06T17:11:57.296+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:11:57.299+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.298+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.305+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:11:57.318+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.318+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:11:57.330+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:11:57.330+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:11:57.349+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:12:50.526+0700] {processor.py:186} INFO - Started process (PID=108415) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:50.528+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:12:50.530+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:50.530+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:50.537+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:50.552+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:50.552+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:12:50.565+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:50.565+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:12:50.589+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.069 seconds
+[2025-03-06T17:12:53.818+0700] {processor.py:186} INFO - Started process (PID=108448) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:53.819+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:12:53.821+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:53.821+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:53.828+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:12:53.844+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:53.844+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:12:53.856+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:12:53.856+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:12:53.876+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:13:42.812+0700] {processor.py:186} INFO - Started process (PID=109046) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:42.813+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:13:42.816+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:42.815+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:42.825+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:42.839+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:42.839+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:13:42.852+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:42.852+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:13:42.872+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.069 seconds
+[2025-03-06T17:13:50.179+0700] {processor.py:186} INFO - Started process (PID=109118) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:50.180+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:13:50.182+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:50.182+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:50.189+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:13:50.203+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:50.203+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:13:50.216+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:13:50.215+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:13:50.236+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:14:29.046+0700] {processor.py:186} INFO - Started process (PID=109550) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:29.048+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:14:29.050+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:29.050+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:29.057+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:29.072+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:29.072+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:14:29.086+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:29.086+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:14:29.107+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T17:14:31.387+0700] {processor.py:186} INFO - Started process (PID=109591) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:31.388+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:14:31.390+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:31.389+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:31.398+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:31.418+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:31.417+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:14:31.429+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:31.429+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:14:31.450+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T17:14:41.192+0700] {processor.py:186} INFO - Started process (PID=109691) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:41.194+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:14:41.197+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:41.197+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:41.205+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:14:41.224+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:41.223+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:14:41.246+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:14:41.246+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:14:41.283+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.097 seconds
+[2025-03-06T17:15:22.256+0700] {processor.py:186} INFO - Started process (PID=110056) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:22.257+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:15:22.259+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:22.259+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:22.266+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:22.280+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:22.279+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:15:22.291+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:22.291+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:15:22.310+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:15:27.447+0700] {processor.py:186} INFO - Started process (PID=110122) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:27.448+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:15:27.451+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:27.451+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:27.458+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:27.472+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:27.472+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:15:27.484+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:27.484+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:15:27.504+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:15:37.993+0700] {processor.py:186} INFO - Started process (PID=110280) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:37.994+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:15:37.997+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:37.996+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:38.006+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:15:38.025+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:38.025+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:15:38.039+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:15:38.039+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:15:38.060+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.075 seconds
+[2025-03-06T17:16:15.022+0700] {processor.py:186} INFO - Started process (PID=110651) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:15.024+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:16:15.026+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:15.025+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:15.032+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:15.046+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:15.046+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:16:15.058+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:15.058+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:16:15.078+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:16:31.278+0700] {processor.py:186} INFO - Started process (PID=110791) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:31.278+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:16:31.281+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:31.281+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:31.288+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:16:31.304+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:31.304+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:16:31.318+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:16:31.318+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:16:31.344+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.072 seconds
+[2025-03-06T17:17:03.608+0700] {processor.py:186} INFO - Started process (PID=111199) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:03.609+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:17:03.611+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:03.611+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:03.618+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:03.632+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:03.632+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:17:03.645+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:03.644+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:17:03.664+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:17:23.411+0700] {processor.py:186} INFO - Started process (PID=111370) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:23.412+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:17:23.415+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:23.414+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:23.421+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:23.435+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:23.435+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:17:23.447+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:23.447+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:17:23.466+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:17:59.311+0700] {processor.py:186} INFO - Started process (PID=111746) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:59.312+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:17:59.314+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:59.314+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:59.321+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:17:59.334+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:59.334+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:17:59.346+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:17:59.346+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:17:59.364+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:18:15.750+0700] {processor.py:186} INFO - Started process (PID=111838) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:15.751+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:18:15.754+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:15.753+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:15.761+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:15.778+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:15.778+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:18:15.796+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:15.796+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:18:15.828+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.085 seconds
+[2025-03-06T17:18:52.264+0700] {processor.py:186} INFO - Started process (PID=112030) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:52.265+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:18:52.267+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:52.267+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:52.274+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:18:52.288+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:52.287+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:18:52.300+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:18:52.300+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:18:52.319+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:19:07.147+0700] {processor.py:186} INFO - Started process (PID=112112) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:07.149+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:19:07.151+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:07.150+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:07.159+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:07.175+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:07.175+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:19:07.188+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:07.188+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:19:07.208+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T17:19:44.841+0700] {processor.py:186} INFO - Started process (PID=112309) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:44.842+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:19:44.844+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:44.844+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:44.851+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:44.865+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:44.864+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:19:44.877+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:44.876+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:19:44.896+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:19:58.464+0700] {processor.py:186} INFO - Started process (PID=112371) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:58.465+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:19:58.467+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:58.467+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:58.475+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:19:58.489+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:58.489+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:19:58.501+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:19:58.501+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:19:58.520+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:20:37.381+0700] {processor.py:186} INFO - Started process (PID=112579) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:35.995+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:20:35.998+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:35.997+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:36.004+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:36.018+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:36.018+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:20:36.032+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:36.032+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:20:36.051+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:20:46.167+0700] {processor.py:186} INFO - Started process (PID=112628) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:46.168+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:20:46.170+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:46.170+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:46.177+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:20:46.191+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:46.190+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:20:46.203+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:20:46.203+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:20:46.223+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:21:30.348+0700] {processor.py:186} INFO - Started process (PID=112945) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:30.349+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:21:30.351+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:30.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:30.360+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:30.374+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:30.374+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:21:30.386+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:30.386+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:21:30.406+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:21:42.582+0700] {processor.py:186} INFO - Started process (PID=113032) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:42.583+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:21:42.586+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:42.585+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:42.594+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:21:42.609+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:42.609+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:21:42.623+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:21:42.623+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:21:42.644+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.068 seconds
+[2025-03-06T17:22:21.370+0700] {processor.py:186} INFO - Started process (PID=113235) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:21.372+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:22:21.373+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:21.373+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:21.380+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:21.394+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:21.394+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:22:21.406+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:21.406+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:22:21.426+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:22:34.876+0700] {processor.py:186} INFO - Started process (PID=113302) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:34.877+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:22:34.879+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:34.879+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:34.886+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:22:34.900+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:34.900+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:22:34.912+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:22:34.911+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:22:34.933+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:23:10.733+0700] {processor.py:186} INFO - Started process (PID=113547) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:10.735+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:23:10.737+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:10.737+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:10.744+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:10.759+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:10.759+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:23:10.775+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:10.775+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:23:10.801+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.074 seconds
+[2025-03-06T17:23:27.067+0700] {processor.py:186} INFO - Started process (PID=113668) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:27.068+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:23:27.070+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:27.070+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:27.077+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:23:27.096+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:27.096+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:23:27.116+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:23:27.115+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:23:27.141+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.080 seconds
+[2025-03-06T17:24:03.049+0700] {processor.py:186} INFO - Started process (PID=113946) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:03.050+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:24:03.052+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:03.052+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:03.059+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:03.076+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:03.076+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:24:03.090+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:03.090+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:24:03.118+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.075 seconds
+[2025-03-06T17:24:14.196+0700] {processor.py:186} INFO - Started process (PID=114039) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:14.197+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:24:14.199+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:14.199+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:14.207+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:14.224+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:14.224+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:24:14.238+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:14.238+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:24:14.262+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.072 seconds
+[2025-03-06T17:24:54.885+0700] {processor.py:186} INFO - Started process (PID=114360) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:54.886+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:24:54.888+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:54.888+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:54.895+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:24:54.911+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:54.910+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:24:54.925+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:24:54.925+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:24:54.946+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.067 seconds
+[2025-03-06T17:25:07.282+0700] {processor.py:186} INFO - Started process (PID=114425) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:07.283+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:25:07.286+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:07.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:07.294+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:07.311+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:07.311+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:25:07.327+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:07.326+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:25:07.357+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.081 seconds
+[2025-03-06T17:25:47.954+0700] {processor.py:186} INFO - Started process (PID=114729) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:47.956+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:25:47.958+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:47.957+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:47.965+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:25:47.979+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:47.979+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:25:47.991+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:25:47.991+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:25:48.014+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:26:01.336+0700] {processor.py:186} INFO - Started process (PID=114799) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:01.337+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:26:01.339+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:01.339+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:01.346+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:01.359+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:01.359+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:26:01.371+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:01.371+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:26:01.390+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:26:37.267+0700] {processor.py:186} INFO - Started process (PID=115009) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:37.268+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:26:37.270+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:37.270+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:37.277+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:37.291+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:37.290+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:26:37.303+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:37.303+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:26:37.322+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.061 seconds
+[2025-03-06T17:26:51.425+0700] {processor.py:186} INFO - Started process (PID=115122) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:51.426+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:26:51.428+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:51.428+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:51.436+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:26:51.451+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:51.450+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:26:51.464+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:26:51.464+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:26:51.487+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.069 seconds
+[2025-03-06T17:27:23.132+0700] {processor.py:186} INFO - Started process (PID=115441) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:23.133+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:27:23.136+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:23.135+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:23.146+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:23.168+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:23.168+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:27:23.179+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:23.179+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:27:23.197+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.072 seconds
+[2025-03-06T17:27:27.428+0700] {processor.py:186} INFO - Started process (PID=115477) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:27.428+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:27:27.430+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:27.430+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:27.437+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:27.450+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:27.450+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:27:27.462+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:27.462+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:27:27.481+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:27:47.796+0700] {processor.py:186} INFO - Started process (PID=115718) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:47.797+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:27:47.799+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:47.799+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:47.808+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:27:47.822+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:47.822+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:27:47.835+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:27:47.834+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:27:47.855+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:28:17.895+0700] {processor.py:186} INFO - Started process (PID=115875) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:17.897+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:28:17.899+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:17.898+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:17.905+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:17.918+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:17.918+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:28:17.930+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:17.930+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:28:17.949+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:28:41.510+0700] {processor.py:186} INFO - Started process (PID=116004) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:41.511+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:28:41.513+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:41.512+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:41.519+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:28:41.533+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:41.532+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:28:41.545+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:28:41.544+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:28:41.566+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:29:07.216+0700] {processor.py:186} INFO - Started process (PID=116214) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:07.217+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:29:07.220+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:07.219+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:07.227+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:07.241+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:07.240+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:29:07.253+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:07.253+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:29:07.274+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T17:29:32.790+0700] {processor.py:186} INFO - Started process (PID=116507) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:32.791+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:29:32.793+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:32.793+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:32.800+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:32.814+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:32.814+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:29:32.826+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:32.826+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:29:32.846+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds
+[2025-03-06T17:29:55.524+0700] {processor.py:186} INFO - Started process (PID=116620) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:55.525+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:29:55.527+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:55.527+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:55.535+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:29:55.551+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:55.551+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:29:55.575+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:29:55.574+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:29:55.600+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.082 seconds
+[2025-03-06T17:30:24.575+0700] {processor.py:186} INFO - Started process (PID=116804) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:24.577+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:30:24.579+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:24.579+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:24.587+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:24.601+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:24.601+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:30:24.616+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:24.616+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:30:24.638+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.070 seconds
+[2025-03-06T17:30:48.694+0700] {processor.py:186} INFO - Started process (PID=116937) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:48.696+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:30:48.699+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:48.698+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:48.707+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:30:48.724+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:48.724+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:30:48.740+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:30:48.739+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:30:48.762+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.074 seconds
+[2025-03-06T17:31:12.451+0700] {processor.py:186} INFO - Started process (PID=117110) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:12.453+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:31:12.455+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:12.455+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:12.464+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:12.480+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:12.480+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:31:12.498+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:12.497+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:31:12.521+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.080 seconds
+[2025-03-06T17:31:37.794+0700] {processor.py:186} INFO - Started process (PID=117244) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:37.795+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:31:37.797+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:37.797+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:37.804+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:31:37.817+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:37.817+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:31:37.828+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:31:37.828+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:31:37.848+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.060 seconds
+[2025-03-06T17:32:13.070+0700] {processor.py:186} INFO - Started process (PID=117853) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:13.071+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:32:13.074+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:13.074+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:13.082+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:13.098+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:13.098+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:32:13.114+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:13.114+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:32:13.139+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.077 seconds
+[2025-03-06T17:32:33.549+0700] {processor.py:186} INFO - Started process (PID=118062) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:33.550+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:32:33.552+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:33.552+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:33.559+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:32:33.573+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:33.573+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:32:33.586+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:32:33.585+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:32:33.607+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T17:33:15.671+0700] {processor.py:186} INFO - Started process (PID=118582) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:15.673+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:33:15.675+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:15.675+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:15.682+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:15.696+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:15.695+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:33:15.708+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:15.708+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:33:15.729+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:33:28.165+0700] {processor.py:186} INFO - Started process (PID=118777) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:28.166+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:33:28.169+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:28.169+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:28.177+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:33:28.193+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:28.193+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:33:28.206+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:33:28.206+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:33:28.228+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.069 seconds
+[2025-03-06T17:34:17.945+0700] {processor.py:186} INFO - Started process (PID=119388) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:17.946+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:34:17.948+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:17.948+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:17.955+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:17.970+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:17.969+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:34:17.982+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:17.982+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:34:18.003+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T17:34:29.058+0700] {processor.py:186} INFO - Started process (PID=119469) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:29.059+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:34:29.061+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:29.060+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:29.067+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:34:29.081+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:29.081+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:34:29.093+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:34:29.092+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:34:29.111+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.059 seconds
+[2025-03-06T17:35:16.667+0700] {processor.py:186} INFO - Started process (PID=119997) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:16.668+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:35:16.670+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:16.670+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:16.677+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:16.692+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:16.691+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:35:16.704+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:16.704+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:35:16.725+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.064 seconds
+[2025-03-06T17:35:24.840+0700] {processor.py:186} INFO - Started process (PID=120079) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:24.841+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:35:24.843+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:24.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:24.850+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:24.864+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:24.863+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:35:24.878+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:24.877+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:35:24.897+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.063 seconds
+[2025-03-06T17:35:41.985+0700] {processor.py:186} INFO - Started process (PID=120441) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:41.986+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:35:41.988+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:41.988+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:41.997+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:35:42.020+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:42.020+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:35:42.033+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:35:42.033+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:35:42.061+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.083 seconds
+[2025-03-06T17:36:14.891+0700] {processor.py:186} INFO - Started process (PID=120957) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:14.892+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:36:14.894+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:14.893+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:14.901+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:14.915+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:14.915+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:36:14.927+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:14.927+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:36:14.949+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.065 seconds
+[2025-03-06T17:36:23.327+0700] {processor.py:186} INFO - Started process (PID=121021) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:23.328+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:36:23.330+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:23.330+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:23.338+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:23.352+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:23.352+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:36:23.365+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:23.365+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:36:23.388+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.067 seconds
+[2025-03-06T17:36:58.450+0700] {processor.py:186} INFO - Started process (PID=121835) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:58.451+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:36:58.454+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:58.453+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:58.461+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:36:58.476+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:58.476+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:36:58.491+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:36:58.490+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:36:58.510+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.066 seconds
+[2025-03-06T17:37:58.521+0700] {processor.py:186} INFO - Started process (PID=122387) to work on /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:37:58.523+0700] {processor.py:914} INFO - Processing file /home/dataengineer/airflow/dags/etl_spark_dag.py for tasks to queue
+[2025-03-06T17:37:58.525+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:37:58.524+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:37:58.531+0700] {processor.py:925} INFO - DAG(s) 'Sales_Transactions_DAG_for_pyspark' retrieved from /home/dataengineer/airflow/dags/etl_spark_dag.py
+[2025-03-06T17:37:58.546+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:37:58.546+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T17:37:58.558+0700] {logging_mixin.py:190} INFO - [2025-03-06T17:37:58.558+0700] {dag.py:4180} INFO - Setting next_dagrun for Sales_Transactions_DAG_for_pyspark to None, run_after=None
+[2025-03-06T17:37:58.578+0700] {processor.py:208} INFO - Processing /home/dataengineer/airflow/dags/etl_spark_dag.py took 0.062 seconds

@@ -1,0 +1,154 @@
+[2025-03-08T00:56:37.322+0700] {processor.py:186} INFO - Started process (PID=36289) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:56:37.323+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T00:56:37.325+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:37.325+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:56:37.337+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:56:37.363+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:37.362+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:56:37.376+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:56:37.375+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T00:56:37.396+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds
+[2025-03-08T00:57:42.940+0700] {processor.py:186} INFO - Started process (PID=36922) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:57:42.943+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T00:57:42.952+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:42.952+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:57:42.965+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:57:42.994+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:42.994+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:57:43.009+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:57:43.008+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T00:57:43.028+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2025-03-08T00:58:43.724+0700] {processor.py:186} INFO - Started process (PID=37438) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:58:43.725+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T00:58:43.727+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:43.727+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:58:43.734+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:58:43.746+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:43.746+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:58:43.757+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:58:43.757+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T00:58:43.775+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-03-08T00:59:45.402+0700] {processor.py:186} INFO - Started process (PID=37865) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:59:45.403+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T00:59:45.406+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:45.405+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:59:45.413+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T00:59:45.426+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:45.426+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T00:59:45.438+0700] {logging_mixin.py:190} INFO - [2025-03-08T00:59:45.437+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T00:59:45.457+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-03-08T01:00:45.914+0700] {processor.py:186} INFO - Started process (PID=38297) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:00:45.915+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T01:00:45.917+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:45.917+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:00:45.925+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:00:45.938+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:45.938+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:00:45.950+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:00:45.949+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T01:00:45.969+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2025-03-08T01:01:48.696+0700] {processor.py:186} INFO - Started process (PID=38752) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:01:48.697+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T01:01:48.699+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:48.699+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:01:48.707+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:01:48.721+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:48.720+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:01:48.733+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:01:48.733+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T01:01:48.753+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-03-08T01:02:51.236+0700] {processor.py:186} INFO - Started process (PID=39279) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:02:51.237+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T01:02:51.238+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:51.238+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:02:51.246+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:02:51.258+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:51.258+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:02:51.269+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:02:51.269+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T01:02:51.287+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-03-08T01:03:50.751+0700] {processor.py:186} INFO - Started process (PID=40044) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:03:50.752+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T01:03:50.754+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:50.753+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:03:50.760+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:03:50.772+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:50.772+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:03:50.784+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:03:50.784+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T01:03:50.803+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-03-08T01:04:52.287+0700] {processor.py:186} INFO - Started process (PID=42030) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:04:52.288+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T01:04:52.289+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:52.289+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:04:52.296+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T01:04:52.309+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:52.309+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T01:04:52.320+0700] {logging_mixin.py:190} INFO - [2025-03-08T01:04:52.320+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T01:04:52.338+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.057 seconds
+[2025-03-08T02:20:13.062+0700] {processor.py:186} INFO - Started process (PID=63553) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:20:13.063+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:20:13.066+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:13.066+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:20:13.073+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:20:13.094+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:13.093+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:20:13.106+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:20:13.106+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:20:13.126+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-03-08T02:26:57.320+0700] {processor.py:186} INFO - Started process (PID=66461) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:26:57.321+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:26:57.323+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:57.323+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:26:57.331+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:26:57.219+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:57.219+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:26:57.233+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:26:57.233+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:26:57.253+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-03-08T02:29:11.295+0700] {processor.py:186} INFO - Started process (PID=67313) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:29:11.297+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:29:11.299+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:11.298+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:29:11.306+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:29:11.323+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:11.323+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:29:11.334+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:29:11.334+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:29:11.352+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-03-08T02:30:07.761+0700] {processor.py:186} INFO - Started process (PID=67918) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:30:07.762+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:30:07.763+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:07.763+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:30:07.771+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:30:07.783+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:07.783+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:30:07.795+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:30:07.794+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:30:07.817+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-03-08T02:31:00.812+0700] {processor.py:186} INFO - Started process (PID=68225) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:00.813+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:31:00.815+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:00.814+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:00.823+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:00.836+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:00.835+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:31:00.849+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:00.848+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:31:00.867+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-03-08T02:31:56.410+0700] {processor.py:186} INFO - Started process (PID=68924) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:56.411+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:31:56.413+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:56.412+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:56.420+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:31:56.436+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:56.436+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:31:56.447+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:31:56.447+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:31:56.466+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-03-08T02:32:53.321+0700] {processor.py:186} INFO - Started process (PID=69178) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:32:53.323+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:32:53.324+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:53.323+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:32:53.331+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:32:53.346+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:53.346+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:32:53.359+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:32:53.358+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:32:53.379+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-03-08T02:33:49.280+0700] {processor.py:186} INFO - Started process (PID=69426) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:33:49.282+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:33:49.285+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:49.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:33:49.294+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:33:49.313+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:49.313+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:33:49.329+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:33:49.328+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:33:49.354+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2025-03-08T02:34:33.624+0700] {processor.py:186} INFO - Started process (PID=70234) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:34:33.625+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:34:33.627+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:33.627+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:34:33.635+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:34:33.653+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:33.653+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:34:33.665+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:34:33.664+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:34:33.684+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-03-08T02:35:33.335+0700] {processor.py:186} INFO - Started process (PID=70730) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:35:33.336+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:35:33.339+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:33.339+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:35:33.345+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:35:33.358+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:33.358+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:35:33.371+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:35:33.371+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:35:33.393+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-03-08T02:36:36.079+0700] {processor.py:186} INFO - Started process (PID=71184) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:36:36.080+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:36:36.082+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:36.082+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:36:36.089+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:36:36.103+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:36.103+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:36:36.117+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:36:36.117+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:36:36.141+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-03-08T02:37:33.427+0700] {processor.py:186} INFO - Started process (PID=71421) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:37:33.429+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:37:33.431+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:33.431+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:37:33.438+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:37:33.451+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:33.451+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:37:33.463+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:37:33.463+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:37:33.483+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-03-08T02:38:40.330+0700] {processor.py:186} INFO - Started process (PID=72302) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:38:40.331+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-03-08T02:38:40.334+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:40.333+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:38:40.342+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-03-08T02:38:40.363+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:40.363+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-08T02:38:40.379+0700] {logging_mixin.py:190} INFO - [2025-03-08T02:38:40.379+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-03-08T02:38:40.403+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.080 seconds

@@ -1,0 +1,546 @@
+[2025-02-16T15:57:17.671+0700] {processor.py:186} INFO - Started process (PID=25358) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:57:17.672+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T15:57:17.674+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:57:17.673+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:57:17.683+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:57:17.798+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:57:17.798+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T15:57:17.814+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:57:17.814+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T15:57:17.832+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.166 seconds
+[2025-02-16T15:58:13.618+0700] {processor.py:186} INFO - Started process (PID=25603) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:58:13.620+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T15:58:13.621+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:58:13.621+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:58:13.631+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:58:13.647+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:58:13.647+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T15:58:13.667+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:58:13.667+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T15:58:13.688+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-16T15:59:06.021+0700] {processor.py:186} INFO - Started process (PID=25816) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:06.022+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T15:59:06.023+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:06.023+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:06.033+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:06.049+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:06.049+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T15:59:06.069+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:06.068+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T15:59:06.088+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T15:59:56.185+0700] {processor.py:186} INFO - Started process (PID=26103) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:56.187+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T15:59:56.188+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:56.188+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:56.198+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T15:59:56.215+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:56.215+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T15:59:56.240+0700] {logging_mixin.py:190} INFO - [2025-02-16T15:59:56.240+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T15:59:56.268+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds
+[2025-02-16T16:00:43.055+0700] {processor.py:186} INFO - Started process (PID=26310) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:00:43.056+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:00:43.057+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:00:43.057+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:00:43.067+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:00:43.082+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:00:43.082+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:00:43.100+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:00:43.100+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:00:43.120+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:01:36.276+0700] {processor.py:186} INFO - Started process (PID=26725) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:01:36.277+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:01:36.278+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:01:36.278+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:01:36.290+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:01:36.310+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:01:36.309+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:01:36.332+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:01:36.331+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:01:36.354+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2025-02-16T16:02:11.582+0700] {processor.py:186} INFO - Started process (PID=27028) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:02:11.583+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:02:11.584+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:02:11.584+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:02:11.593+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:02:11.608+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:02:11.608+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:02:11.626+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:02:11.625+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:02:11.646+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-02-16T16:03:05.397+0700] {processor.py:186} INFO - Started process (PID=27245) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:05.398+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:03:05.399+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:05.399+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:05.408+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:05.423+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:05.423+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:03:05.443+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:05.442+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:03:05.464+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:03:49.830+0700] {processor.py:186} INFO - Started process (PID=27442) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:49.832+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:03:49.834+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:49.833+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:49.844+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:03:49.862+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:49.861+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:03:49.885+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:03:49.885+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:03:49.907+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2025-02-16T16:04:39.269+0700] {processor.py:186} INFO - Started process (PID=27639) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:04:39.270+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:04:39.272+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:04:39.271+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:04:39.282+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:04:39.297+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:04:39.297+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:04:39.316+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:04:39.315+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:04:39.336+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T16:05:32.965+0700] {processor.py:186} INFO - Started process (PID=27870) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:05:32.966+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:05:32.967+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:05:32.967+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:05:32.977+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:05:32.992+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:05:32.992+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:05:33.011+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:05:33.010+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:05:33.030+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:06:23.914+0700] {processor.py:186} INFO - Started process (PID=28083) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:06:23.915+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:06:23.916+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:06:23.916+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:06:23.925+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:06:23.941+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:06:23.940+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:06:23.960+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:06:23.959+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:06:23.979+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:07:09.911+0700] {processor.py:186} INFO - Started process (PID=28359) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:09.912+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:07:09.913+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:09.913+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:09.922+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:09.936+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:09.936+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:07:09.954+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:09.954+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:07:09.973+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.068 seconds
+[2025-02-16T16:07:57.785+0700] {processor.py:186} INFO - Started process (PID=28686) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:57.787+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:07:57.788+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:57.788+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:57.799+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:07:57.817+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:57.816+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:07:57.837+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:07:57.836+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:07:57.858+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.079 seconds
+[2025-02-16T16:08:48.292+0700] {processor.py:186} INFO - Started process (PID=28897) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:08:48.293+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:08:48.294+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:08:48.294+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:08:48.304+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:08:48.319+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:08:48.319+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:08:48.338+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:08:48.338+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:08:48.358+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T16:09:32.272+0700] {processor.py:186} INFO - Started process (PID=29132) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:09:32.273+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:09:32.275+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:09:32.274+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:09:32.284+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:09:32.299+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:09:32.299+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:09:32.319+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:09:32.319+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:09:32.340+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2025-02-16T16:10:26.087+0700] {processor.py:186} INFO - Started process (PID=29394) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:10:26.088+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:10:26.089+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:10:26.089+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:10:26.099+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:10:26.116+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:10:26.116+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:10:26.135+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:10:26.135+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:10:26.154+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:11:10.559+0700] {processor.py:186} INFO - Started process (PID=29586) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:10.561+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:11:10.562+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:10.562+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:10.573+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:10.590+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:10.590+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:11:10.610+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:10.610+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:11:10.632+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.079 seconds
+[2025-02-16T16:11:58.457+0700] {processor.py:186} INFO - Started process (PID=29779) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:58.458+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:11:58.460+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:58.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:58.469+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:11:58.485+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:58.485+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:11:58.505+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:11:58.505+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:11:58.525+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:12:48.028+0700] {processor.py:186} INFO - Started process (PID=29990) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:12:48.029+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:12:48.031+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:12:48.030+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:12:48.041+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:12:48.056+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:12:48.056+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:12:48.075+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:12:48.075+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:12:48.094+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T16:13:39.093+0700] {processor.py:186} INFO - Started process (PID=30203) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:13:39.094+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:13:39.095+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:13:39.095+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:13:39.106+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:13:39.122+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:13:39.122+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:13:39.142+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:13:39.142+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:13:39.162+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-16T16:14:28.466+0700] {processor.py:186} INFO - Started process (PID=30408) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:14:28.467+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:14:28.468+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:14:28.468+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:14:28.479+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:14:28.494+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:14:28.494+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:14:28.513+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:14:28.512+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:14:28.534+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:15:17.231+0700] {processor.py:186} INFO - Started process (PID=30611) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:15:17.232+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:15:17.234+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:15:17.233+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:15:17.243+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:15:17.259+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:15:17.259+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:15:17.278+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:15:17.278+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:15:17.300+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:16:06.223+0700] {processor.py:186} INFO - Started process (PID=30821) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:06.224+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:16:06.225+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:06.225+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:06.236+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:06.252+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:06.252+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:16:06.272+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:06.271+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:16:06.293+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-16T16:16:56.260+0700] {processor.py:186} INFO - Started process (PID=31027) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:56.262+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:16:56.263+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:56.263+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:56.274+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:16:56.292+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:56.291+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:16:56.313+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:16:56.313+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:16:56.336+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.082 seconds
+[2025-02-16T16:17:48.491+0700] {processor.py:186} INFO - Started process (PID=31249) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:17:48.492+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:17:48.493+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:17:48.493+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:17:48.503+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:17:48.520+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:17:48.520+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:17:48.540+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:17:48.540+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:17:48.563+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-02-16T16:18:39.540+0700] {processor.py:186} INFO - Started process (PID=31461) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:18:39.542+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:18:39.543+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:18:39.543+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:18:39.554+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:18:39.572+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:18:39.572+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:18:39.592+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:18:39.592+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:18:39.612+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-02-16T16:19:29.593+0700] {processor.py:186} INFO - Started process (PID=31668) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:19:29.595+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:19:29.596+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:19:29.596+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:19:29.606+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:19:29.621+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:19:29.621+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:19:29.640+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:19:29.640+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:19:29.659+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:20:17.714+0700] {processor.py:186} INFO - Started process (PID=31875) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:20:17.715+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:20:17.716+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:20:17.716+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:20:17.726+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:20:17.741+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:20:17.741+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:20:17.760+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:20:17.760+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:20:17.780+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:21:05.437+0700] {processor.py:186} INFO - Started process (PID=32072) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:05.438+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:21:05.440+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:05.439+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:05.449+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:05.465+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:05.465+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:21:05.484+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:05.484+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:21:05.506+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:21:56.927+0700] {processor.py:186} INFO - Started process (PID=32285) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:56.928+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:21:56.929+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:56.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:56.940+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:21:56.956+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:56.956+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:21:56.976+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:21:56.976+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:21:56.997+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.077 seconds
+[2025-02-16T16:22:44.234+0700] {processor.py:186} INFO - Started process (PID=32482) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:22:44.236+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:22:44.237+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:22:44.236+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:22:44.247+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:22:44.265+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:22:44.265+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:22:44.284+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:22:44.284+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:22:44.306+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.077 seconds
+[2025-02-16T16:23:32.495+0700] {processor.py:186} INFO - Started process (PID=32689) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:23:32.497+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:23:32.498+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:23:32.498+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:23:32.508+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:23:32.524+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:23:32.523+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:23:32.542+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:23:32.542+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:23:32.563+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:24:21.349+0700] {processor.py:186} INFO - Started process (PID=32887) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:24:21.350+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:24:21.352+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:24:21.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:24:21.362+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:24:21.379+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:24:21.378+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:24:21.399+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:24:21.399+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:24:21.421+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.079 seconds
+[2025-02-16T16:25:06.810+0700] {processor.py:186} INFO - Started process (PID=33086) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:06.811+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:25:06.812+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:06.812+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:06.822+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:06.838+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:06.838+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:25:06.858+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:06.858+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:25:06.879+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:25:58.400+0700] {processor.py:186} INFO - Started process (PID=33299) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:58.401+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:25:58.402+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:58.402+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:58.412+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:25:58.428+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:58.428+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:25:58.447+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:25:58.447+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:25:58.467+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T16:26:46.939+0700] {processor.py:186} INFO - Started process (PID=33504) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:26:46.940+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:26:46.942+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:26:46.941+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:26:46.951+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:26:46.966+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:26:46.966+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:26:46.985+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:26:46.984+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:26:47.005+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:27:37.431+0700] {processor.py:186} INFO - Started process (PID=33711) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:27:37.433+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:27:37.434+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:27:37.434+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:27:37.444+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:27:37.458+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:27:37.458+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:27:37.476+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:27:37.475+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:27:37.495+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-02-16T16:28:24.727+0700] {processor.py:186} INFO - Started process (PID=33909) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:28:24.729+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:28:24.730+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:28:24.730+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:28:24.741+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:28:24.756+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:28:24.756+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:28:24.777+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:28:24.777+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:28:24.798+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-16T16:29:15.381+0700] {processor.py:186} INFO - Started process (PID=34122) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:29:15.382+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:29:15.384+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:29:15.383+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:29:15.394+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:29:15.411+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:29:15.411+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:29:15.432+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:29:15.431+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:29:15.455+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.080 seconds
+[2025-02-16T16:30:06.369+0700] {processor.py:186} INFO - Started process (PID=34334) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:06.370+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:30:06.372+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:06.371+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:06.381+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:06.397+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:06.397+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:30:06.416+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:06.416+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:30:06.436+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:30:55.877+0700] {processor.py:186} INFO - Started process (PID=34540) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:55.878+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:30:55.879+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:55.879+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:55.890+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:30:55.907+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:55.907+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:30:55.928+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:30:55.927+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:30:55.949+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.077 seconds
+[2025-02-16T16:31:45.978+0700] {processor.py:186} INFO - Started process (PID=34753) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:31:45.979+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:31:45.981+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:31:45.980+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:31:45.991+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:31:46.006+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:31:46.006+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:31:46.026+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:31:46.026+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:31:46.047+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:32:31.535+0700] {processor.py:186} INFO - Started process (PID=34944) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:32:31.536+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:32:31.537+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:32:31.537+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:32:31.547+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:32:31.562+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:32:31.562+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:32:31.581+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:32:31.580+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:32:31.601+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:33:20.112+0700] {processor.py:186} INFO - Started process (PID=35153) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:33:20.113+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:33:20.114+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:33:20.114+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:33:20.123+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:33:20.137+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:33:20.137+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:33:20.155+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:33:20.155+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:33:20.174+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2025-02-16T16:34:13.755+0700] {processor.py:186} INFO - Started process (PID=35374) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:34:13.756+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:34:13.758+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:34:13.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:34:13.768+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:34:13.784+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:34:13.784+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:34:13.804+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:34:13.804+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:34:13.824+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:35:02.613+0700] {processor.py:186} INFO - Started process (PID=35586) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:02.615+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:35:02.616+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:02.615+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:02.626+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:02.642+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:02.642+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:35:02.663+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:02.663+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:35:02.683+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-16T16:35:52.630+0700] {processor.py:186} INFO - Started process (PID=35792) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:52.631+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:35:52.632+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:52.632+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:52.643+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:35:52.659+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:52.659+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:35:52.683+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:35:52.682+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:35:52.710+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2025-02-16T16:36:46.752+0700] {processor.py:186} INFO - Started process (PID=36208) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:36:46.753+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:36:46.755+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:36:46.754+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:36:46.765+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:36:46.780+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:36:46.780+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:36:46.801+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:36:46.800+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:36:46.820+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2025-02-16T16:37:40.407+0700] {processor.py:186} INFO - Started process (PID=36673) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:37:40.408+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:37:40.410+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:37:40.409+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:37:40.424+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:37:40.444+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:37:40.443+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:37:40.465+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:37:40.465+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:37:40.490+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-02-16T16:38:31.655+0700] {processor.py:186} INFO - Started process (PID=36892) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:38:31.656+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:38:31.657+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:38:31.657+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:38:31.668+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:38:31.683+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:38:31.683+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:38:31.703+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:38:31.702+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:38:31.723+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:39:21.933+0700] {processor.py:186} INFO - Started process (PID=37097) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:39:21.935+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:39:21.936+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:39:21.936+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:39:21.946+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:39:21.962+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:39:21.962+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:39:21.983+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:39:21.983+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:39:22.004+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.077 seconds
+[2025-02-16T16:40:10.544+0700] {processor.py:186} INFO - Started process (PID=37311) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:10.545+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:40:10.547+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:10.546+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:10.559+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:10.576+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:10.576+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:40:10.599+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:10.599+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:40:10.624+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2025-02-16T16:40:59.949+0700] {processor.py:186} INFO - Started process (PID=37765) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:59.950+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:40:59.952+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:59.951+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:59.961+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:40:59.977+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:59.977+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:40:59.996+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:40:59.996+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:41:00.016+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:41:49.674+0700] {processor.py:186} INFO - Started process (PID=37978) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:41:49.676+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:41:49.678+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:41:49.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:41:49.687+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:41:49.703+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:41:49.702+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:41:49.722+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:41:49.721+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:41:49.741+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:42:37.008+0700] {processor.py:186} INFO - Started process (PID=38180) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:42:37.009+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:42:37.010+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:42:37.010+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:42:37.020+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:42:37.034+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:42:37.034+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:42:37.055+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:42:37.054+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:42:37.076+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:43:24.971+0700] {processor.py:186} INFO - Started process (PID=38382) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:43:24.972+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:43:24.974+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:43:24.973+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:43:24.984+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:43:25.003+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:43:25.003+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:43:25.028+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:43:25.027+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:43:25.051+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds
+[2025-02-16T16:44:11.348+0700] {processor.py:186} INFO - Started process (PID=38584) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:44:11.349+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:44:11.351+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:44:11.350+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:44:11.362+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:44:11.380+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:44:11.379+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:44:11.399+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:44:11.399+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:44:11.421+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.080 seconds
+[2025-02-16T16:45:00.035+0700] {processor.py:186} INFO - Started process (PID=38792) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:00.036+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:45:00.038+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:00.038+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:00.049+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:00.066+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:00.065+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:45:00.086+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:00.086+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:45:00.106+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-02-16T16:45:43.204+0700] {processor.py:186} INFO - Started process (PID=39010) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:43.205+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:45:43.206+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:43.206+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:43.215+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:45:43.229+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:43.229+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:45:43.247+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:45:43.246+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:45:43.265+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2025-02-16T16:46:31.567+0700] {processor.py:186} INFO - Started process (PID=39207) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:46:31.568+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:46:31.569+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:46:31.569+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:46:31.578+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:46:31.593+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:46:31.593+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:46:31.610+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:46:31.610+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:46:31.629+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2025-02-16T16:47:17.022+0700] {processor.py:186} INFO - Started process (PID=39406) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:47:17.023+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:47:17.024+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:47:17.024+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:47:17.034+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:47:17.049+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:47:17.049+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:47:17.069+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:47:17.069+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:47:17.090+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2025-02-16T16:48:04.758+0700] {processor.py:186} INFO - Started process (PID=39633) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:04.759+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:48:04.761+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:04.760+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:04.771+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:04.787+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:04.787+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:48:04.808+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:04.808+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:48:04.829+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-02-16T16:48:52.336+0700] {processor.py:186} INFO - Started process (PID=39896) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:52.337+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:48:52.339+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:52.338+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:52.351+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:48:52.370+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:52.369+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:48:52.392+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:48:52.391+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:48:52.413+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.084 seconds
+[2025-02-16T16:49:43.688+0700] {processor.py:186} INFO - Started process (PID=40131) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:49:43.689+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:49:43.690+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:49:43.690+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:49:43.704+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:49:43.722+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:49:43.722+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:49:43.746+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:49:43.745+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:49:43.767+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2025-02-16T16:50:32.969+0700] {processor.py:186} INFO - Started process (PID=40341) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:50:32.970+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:50:32.972+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:50:32.971+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:50:32.985+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:50:33.003+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:50:33.003+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:50:33.027+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:50:33.027+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:50:33.052+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-02-16T16:51:22.267+0700] {processor.py:186} INFO - Started process (PID=40580) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:51:22.269+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:51:22.270+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:51:22.269+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:51:22.279+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:51:22.295+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:51:22.295+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:51:22.314+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:51:22.313+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:51:22.333+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2025-02-16T16:52:07.970+0700] {processor.py:186} INFO - Started process (PID=40770) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:07.971+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:52:07.972+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:07.972+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:07.982+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:07.997+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:07.997+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:52:08.016+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:08.016+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:52:08.036+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T16:52:56.084+0700] {processor.py:186} INFO - Started process (PID=40975) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:56.085+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:52:56.086+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:56.086+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:56.096+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:52:56.110+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:56.110+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:52:56.129+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:52:56.129+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:52:56.147+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-02-16T16:53:49.019+0700] {processor.py:186} INFO - Started process (PID=41216) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:53:49.022+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:53:49.023+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:53:49.023+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:53:49.038+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:53:49.058+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:53:49.057+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:53:49.078+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:53:49.078+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:53:49.097+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2025-02-16T16:54:37.935+0700] {processor.py:186} INFO - Started process (PID=41440) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:54:37.936+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:54:37.937+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:54:37.937+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:54:37.946+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:54:37.961+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:54:37.961+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:54:37.979+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:54:37.979+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:54:37.998+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-02-16T16:55:26.242+0700] {processor.py:186} INFO - Started process (PID=41660) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:55:26.243+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:55:26.244+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:55:26.244+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:55:26.254+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:55:26.270+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:55:26.270+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:55:26.289+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:55:26.289+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:55:26.308+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2025-02-16T16:56:15.335+0700] {processor.py:186} INFO - Started process (PID=41867) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:15.336+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:56:15.337+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:15.337+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:15.346+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:15.361+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:15.361+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:56:15.379+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:15.379+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:56:15.398+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2025-02-16T16:56:58.923+0700] {processor.py:186} INFO - Started process (PID=42310) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:58.925+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:56:58.926+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:58.926+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:58.936+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:56:58.952+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:58.952+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:56:58.971+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:56:58.971+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:56:58.992+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2025-02-16T16:57:48.023+0700] {processor.py:186} INFO - Started process (PID=42680) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:57:48.024+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:57:48.025+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:57:48.025+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:57:48.036+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:57:48.054+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:57:48.053+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:57:48.077+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:57:48.077+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:57:48.103+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2025-02-16T16:58:40.511+0700] {processor.py:186} INFO - Started process (PID=43144) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:58:40.512+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:58:40.513+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:58:40.513+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:58:40.524+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:58:40.541+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:58:40.540+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:58:40.561+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:58:40.561+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:58:40.582+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2025-02-16T16:59:31.436+0700] {processor.py:186} INFO - Started process (PID=43365) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:59:31.437+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T16:59:31.438+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:59:31.438+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:59:31.447+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T16:59:31.462+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:59:31.462+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T16:59:31.482+0700] {logging_mixin.py:190} INFO - [2025-02-16T16:59:31.482+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T16:59:31.502+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2025-02-16T17:00:17.820+0700] {processor.py:186} INFO - Started process (PID=43653) to work on /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T17:00:17.821+0700] {processor.py:914} INFO - Processing file /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-16T17:00:17.822+0700] {logging_mixin.py:190} INFO - [2025-02-16T17:00:17.822+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T17:00:17.831+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-16T17:00:17.846+0700] {logging_mixin.py:190} INFO - [2025-02-16T17:00:17.846+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-16T17:00:17.864+0700] {logging_mixin.py:190} INFO - [2025-02-16T17:00:17.864+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-16T17:00:17.884+0700] {processor.py:208} INFO - Processing /home/dataengineer/.pyenv/versions/3.9.21/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds

@@ -1,0 +1,47 @@
+[2025-03-06 16:51:26 +0700] [99304] [INFO] Starting gunicorn 23.0.0
+[2025-03-06 16:51:26 +0700] [99304] [ERROR] Connection in use: ('::', 8793)
+[2025-03-06 16:51:26 +0700] [99304] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-03-06 16:51:27 +0700] [99304] [ERROR] Connection in use: ('::', 8793)
+[2025-03-06 16:51:27 +0700] [99304] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-03-06 16:51:28 +0700] [99304] [ERROR] Connection in use: ('::', 8793)
+[2025-03-06 16:51:28 +0700] [99304] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-03-06 16:51:29 +0700] [99304] [ERROR] Connection in use: ('::', 8793)
+[2025-03-06 16:51:29 +0700] [99304] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-03-06 16:51:30 +0700] [99304] [ERROR] Connection in use: ('::', 8793)
+[2025-03-06 16:51:30 +0700] [99304] [ERROR] connection to ('::', 8793) failed: [Errno 98] Address already in use
+[2025-03-06 16:51:31 +0700] [99304] [ERROR] Can't connect to ('::', 8793)
+25/03/06 17:32:04 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:32:04 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:32:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:33:03 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:33:03 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:33:04 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:33:59 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:33:59 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:34:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:34:57 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:34:57 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:34:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:35:54 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:35:54 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:35:55 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:36:54 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:36:54 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:36:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/03/06 17:37:55 WARN Utils: Your hostname, DESKTOP-U0OUTGG resolves to a loopback address: 127.0.1.1; using 172.27.237.135 instead (on interface eth0)
+25/03/06 17:37:55 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+25/03/06 17:37:55 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
