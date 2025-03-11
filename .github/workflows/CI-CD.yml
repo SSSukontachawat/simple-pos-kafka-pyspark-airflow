@@ -1,0 +1,36 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set Up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Build and Run Docker Containers
+        run: |
+          docker-compose up -d --build
+          sleep 20 # Wait for services to start
+
+      - name: Check Running Containers
+        run: docker ps
+      
+      - name: Run Basic Health Check
+        run: |
+          curl -f http://localhost:8501 || exit 1  # Streamlit check
+          curl -f http://localhost:8080 || exit 1  # Airflow UI check
+
+      - name: Stop Containers
+        run: docker-compose down
