@@ -49,10 +49,6 @@ jobs:
         run: |
           curl -f -v http://localhost:8501 || exit 1  # Streamlit check
           curl -f -v http://localhost:8080 || exit 1  # Airflow check
-
-      # Show Airflow Logs for debugging
-      - name: Show Airflow Logs
-        run: docker-compose logs airflow
-
+      # Stop containers
       - name: Stop Containers
         run: docker-compose down
