@@ -18,7 +18,7 @@ This project is a **simple POS (Point-of-Sale) system** using **Kafka, PySpark, 
 
 4. **Docker Compose**
    - Manages all services in containers.
-   - 
+
 ## Structure
 simple-pos-kafka-pyspark-airflow  
 ├── secondDataPipeline/  
